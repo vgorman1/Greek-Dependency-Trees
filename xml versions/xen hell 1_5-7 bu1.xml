@@ -10,31 +10,31 @@
       <name/>
       <address/>
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-   </annotator>
+  </annotator>
    <annotator>
       <short/>
       <name/>
       <address/>
       <uri>http://services2.perseids.org/llt/segtok</uri>
-   </annotator>
+  </annotator>
    <annotator>
       <short/>
       <name/>
       <address/>
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-   </annotator>
+  </annotator>
    <annotator>
       <short>Vanessa Gorman</short>
       <name>Vanessa Gorman</name>
       <address>vbgorman@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
-   </annotator>
+  </annotator>
    <annotator>
       <short>Vanessa Gorman</short>
       <name>Vanessa Gorman</name>
       <address>vbgorman@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
-   </annotator>
+  </annotator>
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.1"
@@ -695,7 +695,7 @@
       <word id="20" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="23"/>
       <word id="21" form="Σάμον" lemma="Σάμος" postag="n-s---fa-" relation="OBJ" head="20"/>
       <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="23" insertion_id="0022e" artificial="elliptic" relation="PRED_CO" form="[0]" head="18"/>
+      <word id="23" insertion_id="0022e" artificial="elliptic" relation="PRED_CO" form="[0]" lemma="[0]" postag="v_____---" head="18"/>
    </sentence>
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
@@ -948,7 +948,7 @@
       <word id="38" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="ADV" head="37"/>
       <word id="39" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="40" form="ἐλεήσαντες" lemma="ἐλεέω" postag="v-papamn-" relation="ADV" head="41"/>
-      <word id="41" form="ἀφεῖσαν" lemma="ἀφίημι" postag="v3paia---" relation="PRED_CO" head="10"/>
+      <word id="41" form="ἀφεῖσαν" lemma="ἀφίημι" postag="v-sapafa-" relation="PRED_CO" head="10"/>
       <word id="42" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="45"/>
       <word id="43" form="-δὲ" lemma="δέ" postag="d--------" relation="AuxZ" head="42"/>
       <word id="44" form="χρήματα" lemma="χρῆμα" postag="n-p---na-" relation="OBJ" head="45"/>
@@ -1918,7 +1918,7 @@
       <word id="33" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="36"/>
       <word id="34" form="Ἐρασινίδης" lemma="Ἐρασινίδης" postag="n-s---mn-" relation="SBJ_CO" head="33"/>
       <word id="35" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="36" insertion_id="0035e" artificial="elliptic" relation="PRED_CO" form="[0]" head="26"/>
+      <word id="36" insertion_id="0035f" artificial="elliptic" relation="PRED_CO" lemma="καταφεύγω" postag="v3ppia---" form="καταφεύγουσι" head="26"/>
    </sentence>
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
@@ -3206,7 +3206,7 @@
       <word id="33" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="32"/>
       <word id="34" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="35"/>
       <word id="35" form="πνεῦμα" lemma="πνεῦμα" postag="n-s---nn-" relation="SBJ" head="32"/>
-      <word id="36" form="οὔριον" lemma="οὔριον" postag="n-s---nn-" relation="PNOM" head="32"/>
+      <word id="36" form="οὔριον" lemma="οὔριος" postag="a-s---nn-" relation="PNOM" head="32"/>
       <word id="37" form=")" lemma="punc1" postag="u--------" relation="AuxG" head="32"/>
       <word id="38" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
       <word id="39" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="40"/>
@@ -5417,6 +5417,6 @@
       <word id="16" form="λιμῷ" lemma="λιμός" postag="n-s---md-" relation="ADV" head="17"/>
       <word id="17" form="ἀπέθανεν" lemma="ἀποθνήσκω" postag="v3saia---" relation="PRED" head="0"/>
       <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="19" insertion_id="0018e" artificial="elliptic" relation="ADV" form="[0]" head="4"/>
+      <word id="19" insertion_id="0018e" artificial="elliptic" relation="ADV" form="[0]" lemma="[0]" postag="v_____---" head="4"/>
    </sentence>
 </treebank>
