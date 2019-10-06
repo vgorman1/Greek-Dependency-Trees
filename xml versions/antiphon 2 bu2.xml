@@ -1545,7 +1545,7 @@
       <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="7" form="πάντα" lemma="πᾶς" postag="a-p---nn-" relation="SBJ" head="9"/>
       <word id="8" form="ἄπιστά" lemma="ἄπιστος" postag="a-p---nn-" relation="PNOM" head="9"/>
-      <word id="9" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="" head="0"/>
+      <word id="9" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
       <word id="10" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="64"

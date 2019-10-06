@@ -1041,8 +1041,8 @@
              subdoc="13"
              span="">
       <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="7"/>
-      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="" head="7"/>
-      <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="" head="7"/>
+      <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="7"/>
+      <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="7"/>
       <word id="4" form="μέχρι" lemma="μέχρι" postag="r--------" relation="AuxP" head="7"/>
       <word id="5" form="τούτου" lemma="οὗτος" postag="p-s---ng-" relation="ADV" head="4"/>
       <word id="6" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
@@ -1106,7 +1106,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0028.tlg001.perseus-grc1"
              subdoc="14"
              span="">
-      <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="" head="2"/>
+      <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
       <word id="2" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
       <word id="3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="PNOM" head="2"/>
       <word id="4" form="παλλακή" lemma="παλλακή" postag="n-s---fn-" relation="SBJ" head="2"/>

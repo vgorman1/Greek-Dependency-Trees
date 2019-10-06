@@ -1485,7 +1485,7 @@
              document_id="urn:cts:greekLit:tlg0028.tlg006.perseus-grc1"
              subdoc="14"
              span="">
-      <word id="1" form="ἐπεί" lemma="ἐπεί" postag="d-------_" relation="" head="4"/>
+      <word id="1" form="ἐπεί" lemma="ἐπεί" postag="d-------_" relation="AuxY" head="4"/>
       <word id="2" form="τοι" lemma="τοι" postag="d--------" relation="AuxZ" head="4"/>
       <word id="3" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="4"/>
       <word id="4" form="ἔχει" lemma="ἔχω" postag="v3spia---" relation="PRED" head="0"/>
