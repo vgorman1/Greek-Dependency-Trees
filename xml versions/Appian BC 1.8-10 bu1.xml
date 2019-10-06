@@ -1511,21 +1511,20 @@
              document_id="urn:cts:greekLit:tlg0551.tlg017.perseus-grc2"
              subdoc="1.8.69"
              span="">
-      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="" head="4"/>
-      <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="" head="4"/>
-      <word id="3" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="" head="4"/>
-      <word id="4" form="ἤρετο" lemma="ἔρομαι" postag="v3saim---" relation="" head="0"/>
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="4"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
+      <word id="3" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="4"/>
+      <word id="4" form="ἤρετο" lemma="ἔρομαι" postag="v3saim---" relation="PRED" head="0"/>
       <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="πότερον" lemma="πότερος" postag="a-s---na-" relation="" head="11"/>
-      <word id="7" form="ὡς" lemma="ὡς" postag="c--------" relation="" head="10"/>
-      <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="" head="11"/>
-      <word id="9" form="ὕπατον" lemma="ὕπατος" postag="n-s---ma-" relation="" head="8"/>
-      <word id="10" form="ἔλθοιεν" lemma="ἔρχομαι" postag="v3paoa---" relation="" head="4"/>
-      <word id="11" form="ἢ" lemma="ἢ" postag="c--------" relation="" head="15"/>
-      <word id="12" form="πρὸς" lemma="πρός" postag="r--------" relation="" head="11"/>
-      <word id="13" form="ἰδιώτην" lemma="ἰδιώτης" postag="n-s---ma-" relation="" head="12"/>
+      <word id="6" form="πότερον" lemma="πότερος" postag="a-s---na-" relation="AuxY" head="11"/>
+      <word id="7" form="ὡς" lemma="ὡς" postag="d--------" relation="AuxZ" head="11"/>
+      <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="11"/>
+      <word id="9" form="ὕπατον" lemma="ὕπατος" postag="n-s---ma-" relation="ADV_CO" head="8"/>
+      <word id="10" form="ἔλθοιεν" lemma="ἔρχομαι" postag="v3paoa---" relation="OBJ" head="4"/>
+      <word id="11" form="ἢ" lemma="ἢ" postag="c--------" relation="COORD" head="10"/>
+      <word id="12" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="11"/>
+      <word id="13" form="ἰδιώτην" lemma="ἰδιώτης" postag="n-s---ma-" relation="ADV_CO" head="12"/>
       <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="15" insertion_id="0014f" artificial="elliptic" relation="" lemma="ἔρχομαι" postag="v3paoa---" form="ἔλθοιεν" head="7"/>
    </sentence>
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0551.tlg017.perseus-grc2"
