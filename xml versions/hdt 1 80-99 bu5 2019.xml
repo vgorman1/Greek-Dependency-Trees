@@ -567,7 +567,7 @@
       <word id="12" form="-δὲ" lemma="δέ" postag="c--------" relation="COORD" head="0"/>
       <word id="13" form="παραμένειν" lemma="παραμένω" postag="v--pna---" relation="PRED_CO" head="12"/>
       <word id="14" form="ἀγωνιζομένων" lemma="ἀγωνίζομαι" postag="v-pppemg-" relation="ADV" head="13"/>
-      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
+      <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="16" form="τῶνδε" lemma="ὅδε" postag="p-p---ng-" relation="ADV_AP" head="17"/>
       <word id="17" form="εἵνεκεν" lemma="ἕνεκα" postag="r--------" relation="AuxP" head="31"/>
       <word id="18" form="ἵνα" lemma="ἵνα" postag="c---------" relation="AuxC" head="31"/>
@@ -2952,7 +2952,7 @@
              subdoc="1.91.5"
              span="">
       <word id="1" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="5"/>
-      <word id="2" form="καὶ" lemma="καί" postag="d---------" relation="AuxY" head=""/>
+      <word id="2" form="καὶ" lemma="καί" postag="d---------" relation="AuxY" head="21"/>
       <word id="3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4"/>
       <word id="4" form="τελευταῖον" lemma="τελευταῖος" postag="a-s---na-" relation="ADV" head="5"/>
       <word id="5" form="χρηστηριαζομένῳ" lemma="χρηστηριάζω" postag="v-sppemd-" relation="OBJ" head="6"/>

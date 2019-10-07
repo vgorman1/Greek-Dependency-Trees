@@ -2396,7 +2396,7 @@
              subdoc="1.199"
              span="">
       <word id="1" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="3"/>
-      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head=""/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" form="πρώτῳ" lemma="πρῶτος" postag="a-s---md-" relation="OBJ" head="5"/>
       <word id="4" form="ἐμβαλόντι" lemma="ἐμβάλλω" postag="v-sapamd-" relation="ATR" head="3"/>
       <word id="5" form="ἕπεται" lemma="ἕπομαι" postag="v3spie---" relation="PRED_CO" head="7"/>

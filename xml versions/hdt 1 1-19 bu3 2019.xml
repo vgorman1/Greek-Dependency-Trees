@@ -2148,7 +2148,7 @@
       <word id="19" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="17"/>
       <word id="20" form="ἀπαλλαγὴ" lemma="ἀπαλλαγή" postag="n-s---fn-" relation="SBJ" head="19"/>
       <word id="21" form="οὐδεμία" lemma="οὐδείς" postag="a-s---fn-" relation="ATR" head="20"/>
-      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
+      <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="23" form="ἀλλ᾽" lemma="ἀλλά" postag="c--------" relation="COORD" head="0"/>
       <word id="24" form="ἔδεε" lemma="δέω2" postag="v3siia---" relation="PRED_CO" head="23"/>
       <word id="25" form="ἤ" lemma="ἤ1" postag="d--------" relation="AuxY" head="28"/>

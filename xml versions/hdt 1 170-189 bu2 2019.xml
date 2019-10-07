@@ -983,7 +983,7 @@
              subdoc="1.174"
              span="">
       <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="4"/>
-      <word id="2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head=""/>
+      <word id="2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" form="νυν" lemma="νῦν" postag="d--------" relation="ATR" head="4"/>
       <word id="4" form="Κᾶρες" lemma="Κάρ" postag="n-p---mn-" relation="SBJ" head="9"/>
       <word id="5" form="οὐδὲν" lemma="οὐδείς" postag="a-s---na-" relation="ATR" head="7"/>
