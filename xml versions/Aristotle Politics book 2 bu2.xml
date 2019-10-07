@@ -4007,7 +4007,7 @@
       <word id="22" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="23"/>
       <word id="23" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="SBJ" head="39"/>
       <word id="24" form="αὐτῶν" lemma="αὐτός" postag="p-p---fg-" relation="ATR" head="23"/>
-      <word id="25" form="—" lemma="—" postag="u--------" relation="AuxG" head=""/>
+      <word id="25" form="—" lemma="—" postag="u--------" relation="AuxG" head="0"/>
       <word id="26" form="κ-" lemma="καί" postag="d-------_" relation="AuxZ" head="41"/>
       <word id="27" form="-ἂν" lemma="ἀν" postag="d-------_" relation="AuxY" head="41"/>
       <word id="28" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="40"/>
