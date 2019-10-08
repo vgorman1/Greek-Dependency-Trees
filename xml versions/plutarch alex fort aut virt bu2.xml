@@ -3818,18 +3818,18 @@
              document_id="urn:cts:greekLit:tlg0007.tlg087.perseus-grc1"
              subdoc="332D"
              span="">
-      <word id="1" form="τίς" lemma="τις" postag="p-s---mn-" relation="" head="12"/>
-      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="12"/>
-      <word id="3" form="πολιορκίαις" lemma="πολιορκία" postag="n-p---fd-" relation="" head="4"/>
-      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="" head="12"/>
-      <word id="5" form="παρατάξεσι" lemma="παράταξις" postag="n-p---fd-" relation="" head="4"/>
-      <word id="6" form="βακχείας" lemma="Βάκχειος" postag="a-p---fa-" relation="" head="9"/>
-      <word id="7" form="καὶ" lemma="καί" postag="d--------" relation="" head="9"/>
-      <word id="8" form="γάμους" lemma="γάμος" postag="n-p---ma-" relation="" head="9"/>
-      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="" head="12"/>
-      <word id="10" form="ὑμεναίους" lemma="ὑμέναιος" postag="n-p---ma-" relation="" head="9"/>
+      <word id="1" form="τίς" lemma="τις" postag="p-s---mn-" relation="SBJ" head="12"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12"/>
+      <word id="3" form="πολιορκίαις" lemma="πολιορκία" postag="n-p---fd-" relation="OBJ_CO" head="4"/>
+      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="12"/>
+      <word id="5" form="παρατάξεσι" lemma="παράταξις" postag="n-p---fd-" relation="OBJ_CO" head="4"/>
+      <word id="6" form="βακχείας" lemma="Βάκχειος" postag="a-p---fa-" relation="ATR" head="9"/>
+      <word id="7" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="9"/>
+      <word id="8" form="γάμους" lemma="γάμος" postag="n-p---ma-" relation="OBJ_CO" head="9"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="12"/>
+      <word id="10" form="ὑμεναίους" lemma="ὑμέναιος" postag="n-p---ma-" relation="OBJ_CO" head="9"/>
       <word id="11" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
-      <word id="12" insertion_id="0011e" artificial="elliptic" relation="" lemma="μίγνυμι" postag="v3saia---" form="ἔμειξε" head="0"/>
+      <word id="12" insertion_id="0011e" artificial="elliptic" relation="PRED" lemma="μίγνυμι" postag="v3saia---" form="ἔμειξε" head="0"/>
    </sentence>
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0007.tlg087.perseus-grc1"
@@ -9910,7 +9910,7 @@
              span="">
       <word id="1" form="ἀλλ᾽" lemma="ἀλλά" postag="d--------" relation="AuxY" head="7"/>
       <word id="2" form="ἐκείνῳ" lemma="ἐκεῖνος" postag="p-s---md-" relation="OBJ" head="7"/>
-      <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="" head="4"/>
+      <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="4"/>
       <word id="4" form="εἷς" lemma="εἷς" postag="a-s---mn_" relation="ATR" head="5"/>
       <word id="5" form="ἀνὴρ" lemma="ἀνήρ" postag="n-s---mn-" relation="SBJ" head="7"/>
       <word id="6" form="ὑβριστὴς" lemma="ὑβριστής" postag="n-s---mn-" relation="ATR" head="5"/>
@@ -9924,7 +9924,7 @@
       <word id="14" form="σοβεῖν" lemma="σοβέω" postag="v--pna---" relation="OBJ_CO" head="13"/>
       <word id="15" form="ὄρνιθας" lemma="ὄρνις" postag="n-p---ma-" relation="OBJ" head="14"/>
       <word id="16" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="13"/>
-      <word id="17" form="μὴ" lemma="μή" postag="d--------" relation="" head="18"/>
+      <word id="17" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="18"/>
       <word id="18" form="σχολάζῃ" lemma="σχολάζω" postag="v3spsa---" relation="ADV" head="16"/>
       <word id="19" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="20"/>
       <word id="20" form="μείζοσι" lemma="μέγας" postag="a-p---ndc" relation="OBJ_AP" head="22"/>
