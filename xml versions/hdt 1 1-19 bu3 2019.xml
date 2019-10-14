@@ -2536,7 +2536,7 @@
       <word id="13" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="15"/>
       <word id="14" form="Δελφῶν" lemma="Δελφοί" postag="n-p---mg-" relation="OBJ" head="13"/>
       <word id="15" form="καλέεται" lemma="καλέω" postag="v3sfim---" relation="PRED" head="0"/>
-      <word id="16" form="Γυγάδας" postag="---------" lemma="" relation="PNOM" head="15"/>
+      <word id="16" form="Γυγάδας" postag="a-s---mn_" lemma="" relation="PNOM" head="15"/>
       <word id="17" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="15"/>
       <word id="18" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="19"/>
       <word id="19" form="ἀναθέντος" lemma="ἀνατίθημι" postag="v-sapamg-" relation="ATR" head="20"/>

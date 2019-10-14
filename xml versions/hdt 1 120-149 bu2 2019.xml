@@ -4867,7 +4867,7 @@
       <word id="2" form="Ἄβαντες" lemma="Ἄβαντες" postag="n-p---mn-" relation="SBJ" head="6"/>
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="21"/>
       <word id="4" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="2"/>
-      <word id="5" form="Εὐβοίες" postag="--------" lemma="" relation="ATR" head="4"/>
+      <word id="5" form="Εὐβοίης" postag="n-s---fg-" lemma="Εὔβοια" relation="ATR" head="4"/>
       <word id="6" form="εἰσὶ" lemma="εἰμί" postag="v3ppia---" relation="PRED_CO" head="21"/>
       <word id="7" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="8"/>
       <word id="8" form="ἐλαχίστη" lemma="ἐλάχιστος" postag="a-s---fn-" relation="ATR" head="9"/>
