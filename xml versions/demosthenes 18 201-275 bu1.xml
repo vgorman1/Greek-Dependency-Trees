@@ -2045,7 +2045,7 @@
       <word id="14" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="16"/>
       <word id="15" form="-τε" lemma="τε" postag="d--------" relation="AuxY" head="27"/>
       <word id="16" form="γράφοντ᾽" lemma="γράφω" postag="v-sppama-" relation="ATR" head="21"/>
-      <word id="17" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuzY" head="19"/>
+      <word id="17" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="19"/>
       <word id="18" form="ἐμοῦ" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" head="20"/>
       <word id="19" form="γράψαι" lemma="γράφω" postag="v--ana---" relation="OBJ_CO" head="27"/>
       <word id="20" form="βέλτιον" lemma="βελτίων" postag="a-s---nac" relation="ADV" head="19"/>

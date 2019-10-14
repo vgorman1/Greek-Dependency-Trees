@@ -6297,7 +6297,7 @@
       <word id="10" form="ἔλαβον" lemma="λαμβάνω" postag="v3paia---" relation="ATR" head="21"/>
       <word id="11" form="παρ᾽" lemma="παρά" postag="r--------" relation="AuxP" head="10"/>
       <word id="12" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ADV" head="11"/>
-      <word id="13" form="," lemma="punc1" postag="u--------" relation="Auxx" head="0"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="14" form="ὅπλων" lemma="ὅπλον" postag="n-p---ng-" relation="ADV_CO" head="21"/>
       <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="16" form="ἵππων" lemma="ἵππος" postag="n-p---mg-" relation="ADV_CO" head="21"/>

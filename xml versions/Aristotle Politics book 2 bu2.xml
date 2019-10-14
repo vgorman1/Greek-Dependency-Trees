@@ -800,7 +800,7 @@
       <word id="48" form="φαῦλον" lemma="φαῦλος" postag="a-s---nn-" relation="PNOM" head="77"/>
       <word id="49" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="50"/>
       <word id="50" form="ἄρχειν" lemma="ἄρχω" postag="v--pna---" relation="SBJ" head="77"/>
-      <word id="51" form="," lemma="punc1" postag="u--------" relation="AuxΞ" head="0"/>
+      <word id="51" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="52" form="πάντας" lemma="πᾶς" postag="a-p---ma-" relation="SBJ" head="54"/>
       <word id="53" form="αὐτοῦ" lemma="αὐτός" postag="p-s---ng-" relation="OBJ" head="54"/>
       <word id="54" form="μετέχειν" lemma="μετέχω" postag="v--pna---" relation="SBJ" head="72"/>
