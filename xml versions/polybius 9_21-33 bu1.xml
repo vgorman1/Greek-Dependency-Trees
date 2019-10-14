@@ -955,7 +955,7 @@
              span="">
       <word id="1" form="παραπλήσια" lemma="παραπλήσιος" postag="a-p---nn-" relation="PNOM"
             head="10"/>
-      <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="" head=""/>
+      <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ATR" head="4"/>
       <word id="4" form="δοκεῖ" lemma="δοκέω" postag="v3spia---" relation="PRED" head="0"/>
       <word id="5" form="τούτοις" lemma="οὗτος" postag="p-p---nd-" relation="ADV" head="1"/>
