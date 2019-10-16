@@ -440,7 +440,7 @@
       <word id="10" form="θεῶν" lemma="θεός" postag="n-p---mg-" relation="ATR" head="13"/>
       <word id="11" form="φησι" lemma="φημί" postag="v3spia---" relation="PRED" head="0"/>
       <word id="12" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="13"/>
-      <word id="13" form="μεγίστους" lemma="μέγας" postag="a-p---mas-----" relation="SBJ" head="21"/>
+      <word id="13" form="μεγίστους" lemma="μέγας" postag="a-p---mas" relation="SBJ" head="21"/>
       <word id="14" form="οὐδὲν" lemma="οὐδείς" postag="a-s---na_" relation="AuxZ" head="18"/>
       <word id="15" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="18"/>
       <word id="16" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="19"/>
@@ -1175,7 +1175,7 @@
       <word id="10" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="12"/>
       <word id="11" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="12"/>
       <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
-      <word id="13" form="μεγαλόψυχοτάτους" lemma="μεγαλόψυχος" postag="a-p---mas-----" relation="ADV" head="15"/>
+      <word id="13" form="μεγαλόψυχοτάτους" lemma="μεγαλόψυχος" postag="a-p---mas" relation="ADV" head="15"/>
       <word id="14" form="ἔτρεφεν" lemma="τρέφω" postag="v3siia---" relation="PRED_CO" head="12"/>
       <word id="15" form="ἄνδρας" lemma="ἀνήρ" postag="n-p---ma-" relation="OBJ" head="14"/>
    </sentence>
@@ -1348,7 +1348,7 @@
              span="πολύ0:.5">
       <word id="1" form="πολύ" lemma="πολύς" postag="d--------" relation="ADV" head="3"/>
       <word id="2" form="τοι" lemma="τοι" postag="d--------" relation="AuxY" head="8"/>
-      <word id="3" form="φέριστον" lemma="φέριστος" postag="a-s---nns-----" relation="PNOM" head="8"/>
+      <word id="3" form="φέριστον" lemma="φέριστος" postag="a-s---nn-" relation="PNOM" head="8"/>
       <word id="4" form="ἀνδρὶ" lemma="ἀνήρ" postag="n-s---md-" relation="ADV" head="3"/>
       <word id="5" form="τερπνὸς" lemma="τερπνός" postag="a-s---mn-" relation="ATR" head="6"/>
       <word id="6" form="αἰών" lemma="αἰών" postag="n-s---mn-" relation="SBJ" head="8"/>
@@ -1406,7 +1406,7 @@
       <word id="16" form="ὥσπερ" lemma="ὥσπερ" postag="d--------" relation="AuxZ" head="17"/>
       <word id="17" form="ἐνδεικνύμενος" lemma="ἐνδείκνυμι" postag="v-sppemn-" relation="ADV" head="4"/>
       <word id="18" form="ὅτι" lemma="ὅτι1" postag="c--------" relation="AuxC" head="17"/>
-      <word id="19" form="μέγιστόν" lemma="μέγας" postag="a-s---nns-----" relation="PNOM" head="20"/>
+      <word id="19" form="μέγιστόν" lemma="μέγας" postag="a-s---nns" relation="PNOM" head="20"/>
       <word id="20" form="ἐστι" lemma="εἰμί" postag="v3spia---" relation="OBJ" head="18"/>
       <word id="21" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="22"/>
       <word id="22" form="κακῶν" lemma="κακός" postag="a-p---ng-" relation="ATR" head="19"/>
@@ -2054,8 +2054,8 @@
       <word id="10" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="13"/>
       <word id="11" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="12"/>
       <word id="12" form="Ἀλκινόῳ" lemma="Ἀλκίνοος" postag="n-s---md-" relation="ADV" head="10"/>
-      <word id="13" form="τίθεται" lemma="τίθημι" postag="v3spid--------" relation="PRED" head="0"/>
-      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="13" form="τίθεται" lemma="τίθημι" postag="v3spie---" relation="PRED" head="0"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
