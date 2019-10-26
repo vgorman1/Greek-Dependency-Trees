@@ -1376,7 +1376,7 @@
       <word id="16" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="20"/>
       <word id="17" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="30"/>
       <word id="18" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="19"/>
-      <word id="19" form="μακρότερα" lemma="μακρός" postag="a-p---nac-----" relation="ADV" head="16"/>
+      <word id="19" form="μακρότερα" lemma="μακρός" postag="a-p---nac" relation="ADV" head="16"/>
       <word id="20" form="ποιέων" lemma="ποιέω" postag="v-sppamn-" relation="ADV_CO" head="30"/>
       <word id="21" form="ἑξαπάλαιστα" lemma="ἑξαπάλαιστος" postag="a-p---na-" relation="OCOMP" head="20"/>
       <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
@@ -2628,7 +2628,7 @@
       <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="15" form="οὐδαμὰ" lemma="οὐδαμός" postag="a-p---na-" relation="ADV" head="17"/>
       <word id="16" form="μεγάλως" lemma="μέγας" postag="d--------" relation="ADV" head="17"/>
-      <word id="17" form="αὐξηθῆναι" lemma="αὐξάνω" postag="v--anp--------" relation="OBJ" head="5"/>
+      <word id="17" form="αὐξηθῆναι" lemma="αὐξάνω" postag="v--anp---" relation="OBJ" head="5"/>
       <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="90"
