@@ -301,7 +301,7 @@
       <word id="4" form="μεγάλα" lemma="μέγας" postag="a-s---na-" relation="ADV" head="7"/>
       <word id="5" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="6"/>
       <word id="6" form="Ῥωμαίους" lemma="Ῥωμαῖος" postag="n-p---ma-" relation="SBJ" head="7"/>
-      <word id="7" form="ἐλαττωθῆναι" lemma="ἐλασσόω" postag="v--anp--------" relation="SBJ" head="3"/>
+      <word id="7" form="ἐλαττωθῆναι" lemma="ἐλασσόω" postag="v--anp---" relation="SBJ" head="3"/>
       <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="12"/>
       <word id="9" form="αὐτῇ" lemma="αὐτός" postag="a-s---fd_" relation="ATR" head="11"/>
       <word id="10" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="11"/>

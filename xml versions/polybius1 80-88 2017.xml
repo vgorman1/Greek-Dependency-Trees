@@ -2224,7 +2224,7 @@
       <word id="10" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="14"/>
       <word id="11" form="ἄλλων" lemma="ἄλλος" postag="a-p---mg-" relation="ATR" head="14"/>
       <word id="12" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="14"/>
-      <word id="13" form="ἐπιφανεστάτων" lemma="ἐπιφανής" postag="a-p---mgs-----" relation="ATR" head="14"/>
+      <word id="13" form="ἐπιφανεστάτων" lemma="ἐπιφανής" postag="a-p---mgs" relation="ATR" head="14"/>
       <word id="14" form="ἡγεμόνων" lemma="ἡγεμών" postag="n-p---mg-" relation="OBJ_CO" head="9"/>
       <word id="15" form="τοῦτον" lemma="οὗτος" postag="a-s---ma-" relation="ATR" head="17"/>
       <word id="16" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="17"/>
