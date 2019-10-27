@@ -4661,7 +4661,7 @@
       <word id="13" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="18"/>
       <word id="14" form="Κάμειρος" lemma="Κάμειρος" postag="n-s---fn-" relation="SBJ_AP_CO" head="18"/>
       <word id="15" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="18"/>
-      <word id="16" form="Κῶς" lemma="πῶς" postag="n---" relation="SBJ_AP_CO" head="18"/>
+      <word id="16" form="Κῶς" lemma="Κῶς" postag="n-s---fn-" relation="SBJ_AP_CO" head="18"/>
       <word id="17" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="18"/>
       <word id="18" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="8"/>
       <word id="19" form="Κνίδος" lemma="Κνίδος" postag="n-s---mn-" relation="SBJ_AP_CO" head="18"/>
