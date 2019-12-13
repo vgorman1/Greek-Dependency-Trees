@@ -3856,7 +3856,7 @@
       <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
       <word id="4" form="γραφὴ" lemma="γραφὴ" postag="n-s---fn-" relation="SBJ" head="1"/>
       <word id="5" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="1"/>
-      <word id="6" form="‘Θεμιστοκλῆς" lemma="‘Θεμιστοκλῆς" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="6" form="Θεμιστοκλῆς" lemma="‘Θεμιστοκλῆς" postag="n-s---mn-" relation="SBJ" head="7"/>
       <word id="7" form="ἥκω" lemma="ἥκω" postag="v1spia---" relation="OBJ" head="5"/>
       <word id="8" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="7"/>
       <word id="9" form="σέ" lemma="σύ" postag="p2s----a-" relation="OBJ" head="8"/>
