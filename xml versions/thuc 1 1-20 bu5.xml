@@ -70,7 +70,7 @@
       <word id="42" form="ἄλλο" lemma="ἄλλος" postag="a-s---na_" relation="ATR" head="43"/>
       <word id="43" form="Ἑλληνικὸν" lemma="Ἑλληνικός" postag="a-s---na-" relation="SBJ" head="45"/>
       <word id="44" form="ὁρῶν" lemma="ὁράω" postag="v-sppamn-" relation="ADV_CO" head="40"/>
-      <word id="45" form="ξυνιστάμενον" lemma="συνιστάω" postag="v-sppena-" relation="OBJ_AP" head="48"/>
+      <word id="45" form="ξυνιστάμενον" lemma="καθίστημι" postag="v-sppena-" relation="OBJ_AP" head="48"/>
       <word id="46" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="45"/>
       <word id="47" form="ἑκατέρους" lemma="ἑκάτερος" postag="a-p---ma-" relation="ADV" head="46"/>
       <word id="48" form="," lemma="punc1" postag="u--------" relation="APOS" head="44"/>
