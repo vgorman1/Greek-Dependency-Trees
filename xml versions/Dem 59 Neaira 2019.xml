@@ -467,7 +467,7 @@
       <word id="7" form="ἀντεχειροτόνησεν" lemma="ἀντιχειροτονέω" postag="v3saia---" relation="PRED_CO" head="17"/>
       <word id="8" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="7"/>
       <word id="9" form="οὐ" lemma="οὐ" postag="d-------_" relation="AuxZ" head="10"/>
-      <word id="10" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="OBJ" head="8"/>
+      <word id="10" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="OBJ" head="8"/>
       <word id="11" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="12"/>
       <word id="12" form="χρήμασι" lemma="χρῆμα" postag="n-p---nd-" relation="OBJ" head="15"/>
       <word id="13" form="τούτοις" lemma="οὗτος" postag="a-p---nd_" relation="ATR" head="12"/>
@@ -1287,7 +1287,7 @@
       <word id="17" form="," lemma="punc1" postag="u--------" relation="APOS" head="21"/>
       <word id="18" form="ταῦτʼ" lemma="οὗτος" postag="p-p---na-" relation="OBJ_AP" head="17"/>
       <word id="19" form="ἤδη" lemma="ἤδη" postag="d--------" relation="ADV" head="21"/>
-      <word id="20" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="20" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" head="0"/>
       <word id="21" form="μαθεῖν" lemma="μανθάνω" postag="v--ana---" relation="SBJ" head="20"/>
       <word id="22" form="ὑμᾶς" lemma="σύ" postag="p-p---ma-" relation="SBJ" head="21"/>
       <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
@@ -1372,7 +1372,7 @@
              document_id="urn:cts:greekLit:tlg0014.tlg059.perseus-grc2"
              subdoc="15"
              span="">
-      <word id="1" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="1" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" head="0"/>
       <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" form="ὑμᾶς" lemma="σύ" postag="p-p---ma-" relation="SBJ" head="23"/>
       <word id="4" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="23"/>
@@ -8601,7 +8601,7 @@
       <word id="78" ref="Leuven|0014-059|228|78" form="συνελευθερούντων" lemma="συνελευθερόω" postag="v-pppamg-" relation="ADV_CO" head="76"/>
       <word id="79" ref="Leuven|0014-059|228|79" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="80"/>
       <word id="80" ref="Leuven|0014-059|228|80" form="Ἑλλάδα" lemma="Ἑλλάς" postag="n-s---fa-" relation="OBJ" head="78"/>
-      <word id="81" ref="Leuven|0014-059|228|81" form="μαχεσάμενοι" lemma="μάχομαι" postag="v-papmmnc" relation="ADV" head="90"/>
+      <word id="81" ref="Leuven|0014-059|228|81" form="μαχεσάμενοι" lemma="μάχομαι" postag="v-papmmn-" relation="ADV" head="90"/>
       <word id="82" ref="Leuven|0014-059|228|82" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="83" ref="Leuven|0014-059|228|83" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="90"/>
       <word id="84" ref="Leuven|0014-059|228|84" form="κοινὸν" lemma="κοινός" postag="a-s---fa-" relation="ATR" head="86"/>
@@ -8693,7 +8693,7 @@
       <word id="77" ref="Leuven|0014-059|229|77" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="79"/>
       <word id="78" ref="Leuven|0014-059|229|78" form="Σαλαμῖνι" lemma="Σαλαμίς" postag="n-s---fd-" relation="ATR" head="77"/>
       <word id="79" ref="Leuven|0014-059|229|79" form="ναυμαχίαν" lemma="ναυμαχία" postag="n-s---fa-" relation="OBJ" head="80"/>
-      <word id="80" ref="Leuven|0014-059|229|80" form="ναυμαχήσαντες" lemma="ναυμαχέω" postag="v-papamnc" relation="ATR_CO" head="75"/>
+      <word id="80" ref="Leuven|0014-059|229|80" form="ναυμαχήσαντες" lemma="ναυμαχέω" postag="v-papamn-" relation="ATR_CO" head="75"/>
       <word id="81" ref="Leuven|0014-059|229|81" form="κοινῇ" lemma="κοινῇ" postag="d--------" relation="ADV" head="82"/>
       <word id="82" ref="Leuven|0014-059|229|82" form="ποιησάμενοι" lemma="ποιέω" postag="v-papmmn-" relation="CO" head="83"/>
       <word id="83" ref="Leuven|0014-059|229|83" form="ἀνέθηκαν" lemma="ἀνατίθημι" postag="v3paia---" relation="ATR" head="62"/>

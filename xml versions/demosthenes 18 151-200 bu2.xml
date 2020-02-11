@@ -166,7 +166,7 @@
              subdoc="152"
              span="">
       <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="ADV" head="2"/>
-      <word id="2" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="2" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" head="0"/>
       <word id="3" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="4"/>
       <word id="4" form="πολλὰ" lemma="πολύς" postag="a-p---na-" relation="OBJ" head="5"/>
       <word id="5" form="λέγειν" lemma="λέγω3" postag="v--pna---" relation="SBJ" head="2"/>
@@ -2866,7 +2866,7 @@
       <word id="15" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="21"/>
       <word id="16" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="19"/>
       <word id="17" form="πότε" lemma="ποτέ" postag="d--------" relation="ADV" head="18"/>
-      <word id="18" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="OBJ" head="19"/>
+      <word id="18" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="OBJ" head="19"/>
       <word id="19" form="βαδίζειν" lemma="βαδίζω" postag="v--pna---" relation="ADV_CO" head="21"/>
       <word id="20" form="ἐκεῖσε" lemma="ἐκεῖσε" postag="d--------" relation="ADV" head="19"/>
       <word id="21" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="11"/>

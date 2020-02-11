@@ -2493,7 +2493,7 @@
       <word id="3" form="ποιῶν" lemma="ποιέω" postag="v-sppamn-" relation="ADV" head="4"/>
       <word id="4" form="λέγεις" lemma="λέγω3" postag="v2spia---" relation="PRED" head="0"/>
       <word id="5" form="πόσα" lemma="πόσος" postag="a-p---na-" relation="SBJ" head="7"/>
-      <word id="6" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="OBJ" head="4"/>
+      <word id="6" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="OBJ" head="4"/>
       <word id="7" form="προσεῖναι" lemma="πρόσειμι1" postag="v--pna---" relation="SBJ" head="6"/>
       <word id="8" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="9"/>
       <word id="9" form="δημοτικῷ" lemma="δημοτικός" postag="a-s---md-" relation="OBJ" head="7"/>
@@ -2860,7 +2860,7 @@
       <word id="9" form="ἅπασι" lemma="ἅπας" postag="a-p---md-" relation="OBJ" head="10"/>
       <word id="10" form="δέδεικται" lemma="δείκνυμι" postag="v3srie---" relation="ADV" head="1"/>
       <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="12" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="12" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" head="0"/>
       <word id="13" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="40"/>
       <word id="14" form="μ᾽" lemma="ἐγώ" postag="p1s---ma-" relation="SBJ" head="40"/>
       <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
