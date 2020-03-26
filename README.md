@@ -7,4 +7,6 @@ The Guidelines included here are by Bamman and Crane (Greek) and Bamman, et al. 
 
 The treebanks are licensed under the CC0 1.0 license (see TREEBANK_LICENSE file).
 
+Data Article: Gorman, V B 2020 Dependency Treebanks of Ancient Greek Prose. Journal of Open Humanities Data 6: 1. DOI: https://doi.org/10.5334/johd.13  
+
 Version 1.0.1 (31 December 2019) DOI: 10.5281/zenodo.3596076
