@@ -5,7 +5,7 @@ Trees of Demosthenes (except for 4 and 18) were pre-parsed at the Pedalion Proje
 
 The Guidelines included here are by Bamman and Crane (Greek) and Bamman, et al. (Latin) from the Perseids site.  Treebanking Tips is a sheet I have been developing over the years, explaining how I deal with troublesome constructions. 
 
-The treebanks are licensed under the CC0 1.0 license (see TREEBANK_LICENSE file).
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (see TREEBANK_LICENSE file).
 
 Data Article: Gorman, V B 2020 Dependency Treebanks of Ancient Greek Prose. Journal of Open Humanities Data 6: 1. DOI: https://doi.org/10.5334/johd.13  
 
