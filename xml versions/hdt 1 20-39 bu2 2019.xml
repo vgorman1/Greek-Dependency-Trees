@@ -41,7 +41,7 @@
              span="">
       <word id="1" form="Μιλήσιοι" lemma="Μιλήσιος" postag="n-p---mn-" relation="SBJ" head="4"/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
-      <word id="3" form="τάδε" lemma="ὅδε" postag="p-p---na-" relation="OBJ_CO" head="6"/>
+      <word id="3" form="τάδε" lemma="ὅδε" postag="p-p---na-" relation="OBJ_AP" head="6"/>
       <word id="4" form="προστιθεῖσι" lemma="προστίθημι" postag="v3ppia---" relation="PRED" head="0"/>
       <word id="5" form="τούτοισι" lemma="οὗτος" postag="p-p---nd-" relation="OBJ" head="4"/>
       <word id="6" form="," lemma="punc1" postag="u--------" relation="APOS" head="4"/>
@@ -69,7 +69,7 @@
       <word id="28" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="29" form="πέμψαντα" lemma="πέμπω" postag="v-sapama-" relation="ADV" head="31"/>
       <word id="30" form="ἄγγελον" lemma="ἄγγελος" postag="n-s---ma-" relation="PNOM" head="29"/>
-      <word id="31" form="κατειπεῖν" lemma="κατεῖπον" postag="v--ana---" relation="OBJ_CO" head="6"/>
+      <word id="31" form="κατειπεῖν" lemma="κατεῖπον" postag="v--ana---" relation="OBJ_AP" head="6"/>
       <word id="32" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="33" form="ὅκως" lemma="ὅπως" postag="c--------" relation="AuxC" head="31"/>
       <word id="34" form="ἄν" lemma="ἄν" postag="d--------" relation="AuxY" head="40"/>
