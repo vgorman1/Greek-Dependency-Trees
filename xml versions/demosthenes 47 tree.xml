@@ -23,7 +23,7 @@
       <address>vbgorman@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
   </annotator>
-   <sentence id="1" document_id="0014-047" subdoc="1">
+   <sentence id="1" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="1">
       <word id="1" ref="Leuven|0014-047|1|1" form="καλῶς" lemma="καλός" postag="d--------" relation="ADV" head="6"/>
       <word id="2" ref="Leuven|0014-047|1|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="3"/>
       <word id="3" ref="Leuven|0014-047|1|3" form="δοκοῦσιν" lemma="δοκέω" postag="v3ppia---" relation="PRED" head="0"/>
@@ -108,7 +108,7 @@
       <word id="82" ref="Leuven|0014-047|1|82" form="κακοτεχνιῶν" lemma="κακοτεχνία" postag="n-p---fg-" relation="OBJ" head="78"/>
       <word id="83" ref="Leuven|0014-047|1|83" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="0014-047" subdoc="2">
+   <sentence id="2" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="2">
       <word id="1" ref="Leuven|0014-047|2|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
       <word id="2" ref="Leuven|0014-047|2|2" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="8"/>
       <word id="3" ref="Leuven|0014-047|2|3" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="ADV" head="2"/>
@@ -154,7 +154,7 @@
       <word id="43" ref="Leuven|0014-047|2|43" form="μεμαρτυρηκέναι" lemma="μαρτυρέω" postag="v--rna---" relation="PNOM" head="39"/>
       <word id="44" ref="Leuven|0014-047|2|44" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="0014-047" subdoc="3">
+   <sentence id="3" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="3">
       <word id="1" ref="Leuven|0014-047|3|1" form="δικαίως" lemma="δίκαιος" postag="d--------" relation="ADV" head="7"/>
       <word id="2" ref="Leuven|0014-047|3|2" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="3" ref="Leuven|0014-047|3|3" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="4"/>
@@ -163,7 +163,7 @@
       <word id="6" ref="Leuven|0014-047|3|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="7" insertion_id="0006g" artificial="elliptic" relation="PRED" lemma="ἐπιτίθημι" postag="v3paia---" form="ἐπέθηκαν" head="0"/>
    </sentence>
-   <sentence id="4" document_id="0014-047" subdoc="3">
+   <sentence id="4" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="3">
       <word id="1" ref="Leuven|0014-047|4|1" form="ὑμεῖς" lemma="σύ" postag="p-p---mn-" relation="SBJ" head="15"/>
       <word id="2" ref="Leuven|0014-047|4|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="15"/>
       <word id="3" ref="Leuven|0014-047|4|3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
@@ -181,7 +181,7 @@
       <word id="15" ref="Leuven|0014-047|4|15" form="ψηφίζεσθε" lemma="ψηφίζω" postag="v2ppme---" relation="PRED" head="0"/>
       <word id="16" ref="Leuven|0014-047|4|16" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="5" document_id="0014-047" subdoc="3">
+   <sentence id="5" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="3">
       <word id="1" ref="Leuven|0014-047|5|1" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="19"/>
       <word id="2" ref="Leuven|0014-047|5|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="19"/>
       <word id="3" ref="Leuven|0014-047|5|3" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="6"/>
@@ -205,7 +205,7 @@
       <word id="21" ref="Leuven|0014-047|5|19" form="νομοθέτης" lemma="νομοθέτης" postag="n-s---mn-" relation="SBJ" head="19"/>
       <word id="22" ref="Leuven|0014-047|5|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="6" document_id="0014-047" subdoc="3">
+   <sentence id="6" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="3">
       <word id="1" ref="Leuven|0014-047|6|1" form="δέομαι" lemma="δέω" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|6|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|6|3" form="ὑμῶν" lemma="σύ" postag="p-p---mg-" relation="OBJ" head="1"/>
@@ -241,7 +241,7 @@
       <word id="33" ref="Leuven|0014-047|6|33" form="ἐμαρτύρησαν" lemma="μαρτυρέω" postag="v3paia---" relation="OBJ_CO" head="29"/>
       <word id="34" ref="Leuven|0014-047|6|34" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="7" document_id="0014-047" subdoc="4">
+   <sentence id="7" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="4">
       <word id="1" ref="Leuven|0014-047|7|1" form="μάλιστα" lemma="μάλα" postag="d-------s" relation="ADV" head="5"/>
       <word id="2" ref="Leuven|0014-047|7|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|7|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="5"/>
@@ -252,7 +252,7 @@
       <word id="8" ref="Leuven|0014-047|7|8" form="πράγματα" lemma="πρᾶγμα" postag="n-p---na-" relation="OBJ" head="7"/>
       <word id="9" ref="Leuven|0014-047|7|9" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="8" document_id="0014-047" subdoc="4">
+   <sentence id="8" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="4">
       <word id="1" ref="Leuven|0014-047|8|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|8|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|8|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="10"/>
@@ -271,7 +271,7 @@
       <word id="16" ref="Leuven|0014-047|8|16" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="ATR" head="14"/>
       <word id="17" ref="Leuven|0014-047|8|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="9" document_id="0014-047" subdoc="4">
+   <sentence id="9" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="4">
       <word id="1" ref="Leuven|0014-047|9|1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="6"/>
       <word id="2" ref="Leuven|0014-047|9|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|9|3" form="πλείων" lemma="πολύς" postag="a-s---mnc" relation="ATR" head="5"/>
@@ -290,7 +290,7 @@
       <word id="16" ref="Leuven|0014-047|9|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="17" ref="Leuven|0014-047|9|17" form="[0]" lemma="[0]" postag="v_____---" relation="ADV" artificial="elliptic" insertion_id="0016e" head="11"/>
    </sentence>
-   <sentence id="10" document_id="0014-047" subdoc="4">
+   <sentence id="10" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="4">
       <word id="1" ref="Leuven|0014-047|10|1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="15"/>
       <word id="2" ref="Leuven|0014-047|10|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="18"/>
       <word id="3" ref="Leuven|0014-047|10|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="18"/>
@@ -321,7 +321,7 @@
       <word id="28" ref="Leuven|0014-047|10|28" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
       <word id="29" ref="Leuven|0014-047|10|29" form="[0]" lemma="[0]" postag="v_____---" relation="ADV" artificial="elliptic" insertion_id="0028e" head="25"/>
    </sentence>
-   <sentence id="11" document_id="0014-047" subdoc="5">
+   <sentence id="11" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="5">
       <word id="1" ref="Leuven|0014-047|11|1" form="ἐξὸν" lemma="ἔξεστι" postag="v-sppana-" relation="ADV" head="22"/>
       <word id="2" ref="Leuven|0014-047|11|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="22"/>
       <word id="3" ref="Leuven|0014-047|11|3" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="OBJ" head="1"/>
@@ -385,10 +385,10 @@
       <word id="61" ref="Leuven|0014-047|11|61" form="μαρτυρήσουσιν" lemma="μαρτυρέω" postag="v3pfia---" relation="ADV_CO" head="60"/>
       <word id="62" ref="Leuven|0014-047|11|62" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="12" document_id="0014-047" subdoc="5">
+   <sentence id="12" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="5">
       <word id="1" ref="Leuven|0014-047|12|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="11"/>
       <word id="2" ref="Leuven|0014-047|12|2" form="Θεόφημος" lemma="Θεόφημος" postag="n-s---mn-" relation="SBJ" head="8"/>
-      <word id="3" ref="Leuven|0014-047|12|3" form="αὐτοῖς" lemma="αὐτός" postag="p-p----d-" relation="OBJ" head="8"/>
+      <word id="3" ref="Leuven|0014-047|12|3" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="OBJ" head="8"/>
       <word id="4" ref="Leuven|0014-047|12|4" form="ὡς" lemma="ὡς" postag="d--------" relation="AuxZ" head="5"/>
       <word id="5" ref="Leuven|0014-047|12|5" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ" head="6"/>
       <word id="6" ref="Leuven|0014-047|12|6" form="μεμαρτυρηκόσιν" lemma="μαρτυρέω" postag="v-prpamd-" relation="ATR" head="3"/>
@@ -402,7 +402,7 @@
       <word id="14" ref="Leuven|0014-047|12|13" form="ψευδομαρτυρίων" lemma="ψευδομαρτυρία" postag="n-p---fg-" relation="OBJ" head="12"/>
       <word id="15" ref="Leuven|0014-047|12|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="13" document_id="0014-047" subdoc="6">
+   <sentence id="13" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="6">
       <word id="1" ref="Leuven|0014-047|13|1" form="σχεδὸν" lemma="σχεδόν" postag="d--------" relation="ADV" head="7"/>
       <word id="2" ref="Leuven|0014-047|13|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|13|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="7"/>
@@ -430,7 +430,7 @@
       <word id="25" ref="Leuven|0014-047|13|25" form="ἐθέλειν" lemma="ἐθέλω" postag="v--pna---" relation="OBJ_CO" head="23"/>
       <word id="26" ref="Leuven|0014-047|13|26" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="14" document_id="0014-047" subdoc="6">
+   <sentence id="14" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="6">
       <word id="1" ref="Leuven|0014-047|14|1" form="ἣν" lemma="ὅς" postag="p-s---fa-" relation="OBJ" head="6"/>
       <word id="2" ref="Leuven|0014-047|14|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="93"/>
       <word id="3" ref="Leuven|0014-047|14|3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="5"/>
@@ -615,7 +615,7 @@
       <word id="182" ref="Leuven|0014-047|14|178" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
       <word id="183" insertion_id="0182e" artificial="elliptic" relation="OBJ_CO" lemma="πάρειμι1" postag="v-sppana-" form="παρόν" head="37"/>
    </sentence>
-   <sentence id="15" document_id="0014-047" subdoc="8">
+   <sentence id="15" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="8">
       <word id="1" ref="Leuven|0014-047|15|1" form="ἔφη" lemma="φημί" postag="v3siia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|15|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|15|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="1"/>
@@ -672,7 +672,7 @@
       <word id="54" ref="Leuven|0014-047|15|54" form="ἀδίκων" lemma="ἄδικος" postag="a-p---fg-" relation="ATR" head="53"/>
       <word id="55" ref="Leuven|0014-047|15|55" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="16" document_id="0014-047" subdoc="9">
+   <sentence id="16" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="9">
       <word id="1" ref="Leuven|0014-047|16|1" form="ἃ" lemma="ὅς" postag="p-p---na-" relation="ADV" head="12"/>
       <word id="2" ref="Leuven|0014-047|16|2" form="δή" lemma="δή" postag="d--------" relation="AuxY" head="17"/>
       <word id="3" ref="Leuven|0014-047|16|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -694,7 +694,7 @@
       <word id="19" ref="Leuven|0014-047|16|19" form="ὄντα" lemma="εἰμί" postag="v-pppann-" relation="PNOM" head="17"/>
       <word id="20" ref="Leuven|0014-047|16|20" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="17" document_id="0014-047" subdoc="9">
+   <sentence id="17" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="9">
       <word id="1" ref="Leuven|0014-047|17|1" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|17|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|17|3" form="σῶμα" lemma="σῶμα" postag="n-s---na-" relation="OBJ" head="8"/>
@@ -803,7 +803,7 @@
       <word id="106" ref="Leuven|0014-047|17|106" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
       <word id="107" insertion_id="0106e" artificial="elliptic" relation="ADV" lemma="προαιρέω" postag="v3srie---" form="προῄρηται" head="26"/>
    </sentence>
-   <sentence id="18" document_id="0014-047" subdoc="10">
+   <sentence id="18" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="10">
       <word id="1" ref="Leuven|0014-047|18|1" form="εὖ" lemma="εὖ" postag="d--------" relation="ADV" head="3"/>
       <word id="2" ref="Leuven|0014-047|18|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|18|3" form="ᾔδεσαν" lemma="οἶδα" postag="v3plia---" relation="PRED" head="0"/>
@@ -817,7 +817,7 @@
       <word id="11" ref="Leuven|0014-047|18|11" form="ἀδικούμενοι" lemma="ἀδικέω" postag="v-pppemn-" relation="PNOM_CO" head="9"/>
       <word id="12" ref="Leuven|0014-047|18|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="19" document_id="0014-047" subdoc="10">
+   <sentence id="19" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="10">
       <word id="1" ref="Leuven|0014-047|19|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
       <word id="2" ref="Leuven|0014-047|19|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|19|3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
@@ -831,7 +831,7 @@
       <word id="11" ref="Leuven|0014-047|19|11" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="9"/>
       <word id="12" ref="Leuven|0014-047|19|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="20" document_id="0014-047" subdoc="11">
+   <sentence id="20" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="11">
       <word id="1" ref="Leuven|0014-047|20|1" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="14"/>
       <word id="2" ref="Leuven|0014-047|20|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="14"/>
       <word id="3" ref="Leuven|0014-047|20|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="14"/>
@@ -849,7 +849,7 @@
       <word id="15" ref="Leuven|0014-047|20|15" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="14"/>
       <word id="16" ref="Leuven|0014-047|20|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="21" document_id="0014-047" subdoc="11">
+   <sentence id="21" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="11">
       <word id="1" ref="Leuven|0014-047|21|1" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="11"/>
       <word id="2" ref="Leuven|0014-047|21|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|21|3" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="5"/>
@@ -864,7 +864,7 @@
       <word id="12" ref="Leuven|0014-047|21|12" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="11"/>
       <word id="13" ref="Leuven|0014-047|21|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="22" document_id="0014-047" subdoc="11">
+   <sentence id="22" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="11">
       <word id="1" ref="Leuven|0014-047|22|1" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="34"/>
       <word id="2" ref="Leuven|0014-047|22|2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="34"/>
       <word id="3" ref="Leuven|0014-047|22|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -907,7 +907,7 @@
       <word id="40" insertion_id="0039g" artificial="elliptic" relation="APOS" lemma="," postag="u--------" form="," head="8"/>
       <word id="41" insertion_id="0039h" artificial="elliptic" relation="PRED_CO" lemma="ποιέω" postag="v3paim---" form="ἐποιήσαντο" head="34"/>
    </sentence>
-   <sentence id="23" document_id="0014-047" subdoc="12">
+   <sentence id="23" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="12">
       <word id="1" ref="Leuven|0014-047|23|1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
       <word id="2" ref="Leuven|0014-047|23|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|23|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="8"/>
@@ -930,7 +930,7 @@
       <word id="20" ref="Leuven|0014-047|23|20" form=")" lemma="̓" postag="u--------" relation="AuxG" head="0"/>
       <word id="21" ref="Leuven|0014-047|23|21" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="24" document_id="0014-047" subdoc="12">
+   <sentence id="24" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="12">
       <word id="1" ref="Leuven|0014-047|24|1" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="4"/>
       <word id="2" ref="Leuven|0014-047|24|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="14"/>
       <word id="3" ref="Leuven|0014-047|24|3" form="τοιούτων" lemma="τοιοῦτος" postag="a-p---ng-" relation="ATR" head="4"/>
@@ -965,7 +965,7 @@
       <word id="32" ref="Leuven|0014-047|24|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="33" insertion_id="0032e" artificial="elliptic" relation="ATR" lemma="εἰμί" postag="v-pppafg-" form="οὐσῶν" head="14"/>
    </sentence>
-   <sentence id="25" document_id="0014-047" subdoc="13">
+   <sentence id="25" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="13">
       <word id="1" ref="Leuven|0014-047|25|1" form="μεμαρτυρήκασι" lemma="μαρτυρέω" postag="v3pria---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|25|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|25|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -996,7 +996,7 @@
       <word id="28" ref="Leuven|0014-047|25|28" form="ἄνθρωπον" lemma="ἄνθρωπος" postag="n-s---fa-" relation="OBJ" head="26"/>
       <word id="29" ref="Leuven|0014-047|25|29" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="26" document_id="0014-047" subdoc="13">
+   <sentence id="26" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="13">
       <word id="1" ref="Leuven|0014-047|26|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|26|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|26|3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
@@ -1009,7 +1009,7 @@
       <word id="10" ref="Leuven|0014-047|26|10" form="διδάξω" lemma="διδάσκω" postag="v1sfia---" relation="PRED" head="0"/>
       <word id="11" ref="Leuven|0014-047|26|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="27" document_id="0014-047" subdoc="13">
+   <sentence id="27" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="13">
       <word id="1" ref="Leuven|0014-047|27|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="27"/>
       <word id="2" ref="Leuven|0014-047|27|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="27"/>
       <word id="3" ref="Leuven|0014-047|27|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="27"/>
@@ -1056,7 +1056,7 @@
       <word id="44" ref="Leuven|0014-047|27|44" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="43"/>
       <word id="45" ref="Leuven|0014-047|27|45" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="28" document_id="0014-047" subdoc="14">
+   <sentence id="28" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="14">
       <word id="1" ref="Leuven|0014-047|28|1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="5"/>
       <word id="2" ref="Leuven|0014-047|28|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|28|3" form="σὲ" lemma="σύ" postag="p-s---ma-" relation="SBJ" head="10"/>
@@ -1078,7 +1078,7 @@
       <word id="19" ref="Leuven|0014-047|28|19" form="παραλαβεῖν" lemma="παραλαμβάνω" postag="v--ana---" relation="OBJ" head="18"/>
       <word id="20" ref="Leuven|0014-047|28|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="29" document_id="0014-047" subdoc="14">
+   <sentence id="29" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="14">
       <word id="1" ref="Leuven|0014-047|29|1" form="πῶς" lemma="πῶς" postag="d--------" relation="ADV" head="44"/>
       <word id="2" ref="Leuven|0014-047|29|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="44"/>
       <word id="3" ref="Leuven|0014-047|29|3" form="σὺ" lemma="σύ" postag="p-s---mn-" relation="SBJ" head="44"/>
@@ -1143,7 +1143,7 @@
       <word id="62" ref="Leuven|0014-047|29|62" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="59"/>
       <word id="63" ref="Leuven|0014-047|29|63" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="30" document_id="0014-047" subdoc="15">
+   <sentence id="30" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="15">
       <word id="1" ref="Leuven|0014-047|30|1" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="9"/>
       <word id="2" ref="Leuven|0014-047|30|2" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
       <word id="3" ref="Leuven|0014-047|30|3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="9"/>
@@ -1171,7 +1171,7 @@
       <word id="25" ref="Leuven|0014-047|30|25" form="παραδοῦναι" lemma="παραδίδωμι" postag="v--ana---" relation="OBJ" head="24"/>
       <word id="26" ref="Leuven|0014-047|30|26" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="31" document_id="0014-047" subdoc="16">
+   <sentence id="31" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="16">
       <word id="1" ref="Leuven|0014-047|31|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="17"/>
       <word id="2" ref="Leuven|0014-047|31|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="17"/>
       <word id="3" ref="Leuven|0014-047|31|3" form="σοι" lemma="σοι" postag="p-s---md-" relation="ADV" head="6"/>
@@ -1202,7 +1202,7 @@
       <word id="28" ref="Leuven|0014-047|31|28" form="δικαστήριον" lemma="δικαστήριον" postag="n-s---na-" relation="OBJ_CO" head="26"/>
       <word id="29" ref="Leuven|0014-047|31|29" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="32" document_id="0014-047" subdoc="16">
+   <sentence id="32" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="16">
       <word id="1" ref="Leuven|0014-047|32|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|32|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|32|3" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="6"/>
@@ -1243,7 +1243,7 @@
       <word id="38" ref="Leuven|0014-047|32|38" form="ἄνθρωπον" lemma="ἄνθρωπος" postag="n-s---fa-" relation="OBJ" head="36"/>
       <word id="39" ref="Leuven|0014-047|32|39" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="33" document_id="0014-047" subdoc="16">
+   <sentence id="33" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="16">
       <word id="1" ref="Leuven|0014-047|33|1" form="μέλλων" lemma="μέλλω" postag="v-sppamn-" relation="ADV" head="6"/>
       <word id="2" ref="Leuven|0014-047|33|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|33|3" form="εἰσιέναι" lemma="εἴσειμι" postag="v--pna---" relation="OBJ" head="1"/>
@@ -1259,7 +1259,7 @@
       <word id="13" ref="Leuven|0014-047|33|13" form="δικαστήριον" lemma="δικαστήριον" postag="n-s---na-" relation="OBJ" head="11"/>
       <word id="14" ref="Leuven|0014-047|33|14" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="34" document_id="0014-047" subdoc="17">
+   <sentence id="34" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="17">
       <word id="1" ref="Leuven|0014-047|34|1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="2"/>
       <word id="2" ref="Leuven|0014-047|34|2" form="ἔδει" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0"/>
       <word id="3" ref="Leuven|0014-047|34|3" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" head="24"/>
@@ -1303,7 +1303,7 @@
       <word id="41" ref="Leuven|0014-047|34|41" form="παραδοῦναι" lemma="παραδίδωμι" postag="v--ana---" relation="ADV" head="39"/>
       <word id="42" ref="Leuven|0014-047|34|42" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="35" document_id="0014-047" subdoc="17">
+   <sentence id="35" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="17">
       <word id="1" ref="Leuven|0014-047|35|1" form="νυνὶ" lemma="νυνί" postag="d--------" relation="ADV" head="4"/>
       <word id="2" ref="Leuven|0014-047|35|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|35|3" form="λόγῳ" lemma="λόγος" postag="n-s---md-" relation="ADV" head="4"/>
@@ -1336,7 +1336,7 @@
       <word id="30" ref="Leuven|0014-047|35|30" form="μεμαρτυρήκασιν" lemma="μαρτυρέω" postag="v3pria---" relation="ADV" head="24"/>
       <word id="31" ref="Leuven|0014-047|35|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="36" document_id="0014-047" subdoc="17">
+   <sentence id="36" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="17">
       <word id="1" ref="Leuven|0014-047|36|1" form="καί" lemma="καί" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|36|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="3"/>
       <word id="3" ref="Leuven|0014-047|36|3" form="ἀνάγνωθι" lemma="ἀναγιγνώσκω" postag="v2sama---" relation="PRED" head="0"/>
@@ -1345,7 +1345,7 @@
       <word id="6" ref="Leuven|0014-047|36|6" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="3"/>
       <word id="7" ref="Leuven|0014-047|36|7" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="37" document_id="0014-047" subdoc="18">
+   <sentence id="37" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="18">
       <word id="1" ref="Leuven|0014-047|37|1" form="βούλομαι" lemma="βούλομαι" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|37|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|37|3" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="12"/>
@@ -1422,7 +1422,7 @@
       <word id="74" ref="Leuven|0014-047|37|74" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="75" insertion_id="0074f" artificial="elliptic" relation="OBJ_CO" lemma="ποιέω" postag="v3saia---" form="ἐποίησεν" head="62"/>
    </sentence>
-   <sentence id="38" document_id="0014-047" subdoc="18">
+   <sentence id="38" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="18">
       <word id="1" ref="Leuven|0014-047|38|1" form="ὃν" lemma="ὅς" postag="a-s---ma_" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|38|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|38|3" form="τρόπον" lemma="τρόπος" postag="n-s---ma-" relation="ADV" head="12"/>
@@ -1436,7 +1436,7 @@
       <word id="11" ref="Leuven|0014-047|38|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="12" insertion_id="0011e" artificial="elliptic" relation="OBJ" lemma="[0]" postag="v_____---" form="[0]" head="10"/>
    </sentence>
-   <sentence id="39" document_id="0014-047" subdoc="19">
+   <sentence id="39" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="19">
       <word id="1" ref="Leuven|0014-047|39|1" form="ἐμοὶ" lemma="ἐγώ" postag="p1s---md-" relation="PNOM" head="13"/>
       <word id="2" ref="Leuven|0014-047|39|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|39|3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="13"/>
@@ -1478,7 +1478,7 @@
       <word id="39" ref="Leuven|0014-047|39|38" form="τούτου" lemma="οὗτος" postag="p-s---mg-" relation="ATR" head="37"/>
       <word id="40" ref="Leuven|0014-047|39|39" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="40" document_id="0014-047" subdoc="19">
+   <sentence id="40" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="19">
       <word id="1" ref="Leuven|0014-047|40|1" form="ψηφισμάτων" lemma="ψήφισμα" postag="n-p---ng-" relation="SBJ_CO" head="7"/>
       <word id="2" ref="Leuven|0014-047|40|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|40|3" form="ὑμετέρων" lemma="ὑμέτερος" postag="a-p---ng-" relation="ATR" head="1"/>
@@ -1498,7 +1498,7 @@
       <word id="17" ref="Leuven|0014-047|40|17" form="τριηρικά" lemma="τριηρικός" postag="a-p---na-" relation="ATR" head="16"/>
       <word id="18" ref="Leuven|0014-047|40|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="41" document_id="0014-047" subdoc="19">
+   <sentence id="41" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="19">
       <word id="1" ref="Leuven|0014-047|41|1" form="δι’" lemma="διά" postag="r--------" relation="AuxP" head="7"/>
       <word id="2" ref="Leuven|0014-047|41|2" form="ὅτι" lemma="ὅστις" postag="p-s---na-" relation="OBJ" head="1"/>
       <word id="3" ref="Leuven|0014-047|41|3" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
@@ -1508,7 +1508,7 @@
       <word id="7" ref="Leuven|0014-047|41|7" form="διηγήσομαι" lemma="διηγέομαι" postag="v1sfim---" relation="PRED" head="0"/>
       <word id="8" ref="Leuven|0014-047|41|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="42" document_id="0014-047" subdoc="20">
+   <sentence id="42" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="20">
       <word id="1" ref="Leuven|0014-047|42|1" form="ἔτυχεν" lemma="τυγχάνω" postag="v3saia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|42|2" form="ἔκπλους" lemma="ἔκπλοος" postag="n-s---mn-" relation="SBJ_CO" head="5"/>
       <word id="3" ref="Leuven|0014-047|42|3" form="ὢν" lemma="εἰμί" postag="v-sppamn-" relation="PNOM" head="1"/>
@@ -1520,7 +1520,7 @@
       <word id="9" ref="Leuven|0014-047|42|9" form="τάχους" lemma="τάχος" postag="n-s---ng-" relation="ADV" head="8"/>
       <word id="10" ref="Leuven|0014-047|42|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="43" document_id="0014-047" subdoc="20">
+   <sentence id="43" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="20">
       <word id="1" ref="Leuven|0014-047|43|1" form="σκεύη" lemma="σκεῦος" postag="n-p---nn-" relation="SBJ" head="7"/>
       <word id="2" ref="Leuven|0014-047|43|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|43|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="7"/>
@@ -1539,7 +1539,7 @@
       <word id="16" ref="Leuven|0014-047|43|16" form="ἀπεδίδοσαν" lemma="ἀποδίδωμι" postag="v3piia---" relation="PRED_CO" head="11"/>
       <word id="17" ref="Leuven|0014-047|43|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="44" document_id="0014-047" subdoc="20">
+   <sentence id="44" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="20">
       <word id="1" ref="Leuven|0014-047|44|1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="9"/>
       <word id="2" ref="Leuven|0014-047|44|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="24"/>
       <word id="3" ref="Leuven|0014-047|44|3" form="τούτοις" lemma="οὗτος" postag="p-p---nd-" relation="ADV" head="1"/>
@@ -1565,7 +1565,7 @@
       <word id="23" ref="Leuven|0014-047|44|22" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="24" insertion_id="0023f" artificial="elliptic" relation="PRED" lemma="τυγχάνω" postag="v3saia---" form="ἔτυχεν" head="0"/>
    </sentence>
-   <sentence id="45" document_id="0014-047" subdoc="20">
+   <sentence id="45" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="20">
       <word id="1" ref="Leuven|0014-047|45|1" form="γράφει" lemma="γράφω" postag="v3spia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|45|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|45|3" form="Χαιρέδημος" lemma="Χαιρέδημος" postag="n-s---mn-" relation="SBJ" head="1"/>
@@ -1586,7 +1586,7 @@
       <word id="18" ref="Leuven|0014-047|45|18" form="πόλει" lemma="πόλις" postag="n-s---fd-" relation="ADV" head="15"/>
       <word id="19" ref="Leuven|0014-047|45|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="46" document_id="0014-047" subdoc="20">
+   <sentence id="46" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="20">
       <word id="1" ref="Leuven|0014-047|46|1" form="καί" lemma="καί" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|46|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ADV" head="3"/>
       <word id="3" ref="Leuven|0014-047|46|3" form="ἀνάγνωθι" lemma="ἀναγιγνώσκω" postag="v2sama---" relation="PRED" head="0"/>
@@ -1594,7 +1594,7 @@
       <word id="5" ref="Leuven|0014-047|46|5" form="ψήφισμα" lemma="ψήφισμα" postag="n-s---na-" relation="OBJ" head="3"/>
       <word id="6" ref="Leuven|0014-047|46|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="47" document_id="0014-047" subdoc="21">
+   <sentence id="47" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="21">
       <word id="1" ref="Leuven|0014-047|47|1" form="τούτου" lemma="οὗτος" postag="a-s---ng-" relation="ATR" head="4"/>
       <word id="2" ref="Leuven|0014-047|47|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|47|3" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="4"/>
@@ -1634,7 +1634,7 @@
       <word id="37" ref="Leuven|0014-047|47|37" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="38" insertion_id="0037g" artificial="elliptic" relation="PRED_CO" lemma="παραδίδωμι" postag="v3paia---" form="παρέδοσαν" head="21"/>
    </sentence>
-   <sentence id="48" document_id="0014-047" subdoc="21">
+   <sentence id="48" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="21">
       <word id="1" ref="Leuven|0014-047|48|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|48|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|48|3" form="νόμος" lemma="νόμος" postag="n-s---mn-" relation="SBJ" head="8"/>
@@ -1657,7 +1657,7 @@
       <word id="20" ref="Leuven|0014-047|48|20" form="συνετάχθησαν" lemma="συντάσσω" postag="v3paip---" relation="ATR" head="3"/>
       <word id="21" ref="Leuven|0014-047|48|21" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="49" document_id="0014-047" subdoc="21">
+   <sentence id="49" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="21">
       <word id="1" ref="Leuven|0014-047|49|1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="7"/>
       <word id="2" ref="Leuven|0014-047|49|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|49|3" form="τούτοις" lemma="οὗτος" postag="p-p---nd-" relation="ADV" head="1"/>
@@ -1676,7 +1676,7 @@
       <word id="16" ref="Leuven|0014-047|49|16" form="εἰσπράξασθαι" lemma="εἰσπράσσω" postag="v--anm---" relation="OBJ" head="12"/>
       <word id="17" ref="Leuven|0014-047|49|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="50" document_id="0014-047" subdoc="22">
+   <sentence id="50" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="22">
       <word id="1" ref="Leuven|0014-047|50|1" form="ἔτυχον" lemma="τυγχάνω" postag="v1saia---" relation="PRED_CO" head="13"/>
       <word id="2" ref="Leuven|0014-047|50|2" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|50|3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="1"/>
@@ -1710,7 +1710,7 @@
       <word id="31" ref="Leuven|0014-047|50|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="32" insertion_id="0031g" artificial="elliptic" relation="PRED_CO" lemma="τυγχάνω" postag="v3saia---" form="ἔτυχε" head="13"/>
    </sentence>
-   <sentence id="51" document_id="0014-047" subdoc="22">
+   <sentence id="51" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="22">
       <word id="1" ref="Leuven|0014-047|51|1" form="γεγραμμένους" lemma="γράφω" postag="v-prpema-" relation="ADV" head="3"/>
       <word id="2" ref="Leuven|0014-047|51|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="22"/>
       <word id="3" ref="Leuven|0014-047|51|3" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="22"/>
@@ -1742,12 +1742,12 @@
       <word id="29" ref="Leuven|0014-047|51|29" form="ψηφίσματα" lemma="ψήφισμα" postag="n-p---na-" relation="ADV_CO" head="27"/>
       <word id="30" ref="Leuven|0014-047|51|30" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="52" document_id="0014-047" subdoc="23">
+   <sentence id="52" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="23">
       <word id="1" ref="Leuven|0014-047|52|1" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="4"/>
       <word id="2" ref="Leuven|0014-047|52|2" form="ἀνάγκης" lemma="ἀνάγκη" postag="n-s---fg-" relation="PNOM" head="1"/>
       <word id="3" ref="Leuven|0014-047|52|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="4"/>
       <word id="4" ref="Leuven|0014-047|52|4" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
-      <word id="5" ref="Leuven|0014-047|52|5" form="μοι" lemma="ἐγώ" postag="p-s----d-" relation="ATR" head="2"/>
+      <word id="5" ref="Leuven|0014-047|52|5" form="μοι" lemma="ἐγώ" postag="p-s---md-" relation="ATR" head="2"/>
       <word id="6" ref="Leuven|0014-047|52|6" form="παραλαβεῖν" lemma="παραλαμβάνω" postag="v--ana---" relation="SBJ" head="4"/>
       <word id="7" ref="Leuven|0014-047|52|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="8" ref="Leuven|0014-047|52|8" form="ἐπεὶ" lemma="ἐπεί" postag="c--------" relation="AuxC" head="4"/>
@@ -1784,7 +1784,7 @@
       <word id="39" ref="Leuven|0014-047|52|39" form="πόλιν" lemma="πόλις" postag="n-s---fa-" relation="ADV" head="37"/>
       <word id="40" ref="Leuven|0014-047|52|40" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="53" document_id="0014-047" subdoc="23">
+   <sentence id="53" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="23">
       <word id="1" ref="Leuven|0014-047|53|1" form="τότε" lemma="τότε" postag="d--------" relation="ADV" head="10"/>
       <word id="2" ref="Leuven|0014-047|53|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|53|3" form="κατά" lemma="κατά" postag="r--------" relation="AuxP" head="11"/>
@@ -1798,7 +1798,7 @@
       <word id="11" ref="Leuven|0014-047|53|11" form="παραλαμβάνειν" lemma="παραλαμβάνω" postag="v--pna---" relation="OBJ" head="10"/>
       <word id="12" ref="Leuven|0014-047|53|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="54" document_id="0014-047" subdoc="24">
+   <sentence id="54" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="24">
       <word id="1" ref="Leuven|0014-047|54|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|54|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|54|3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
@@ -1841,13 +1841,13 @@
       <word id="40" ref="Leuven|0014-047|54|40" form="τριήραρχος" lemma="τριήραρχος" postag="n-s---mn-" relation="PNOM_CO" head="39"/>
       <word id="41" ref="Leuven|0014-047|54|41" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="55" document_id="0014-047" subdoc="24">
+   <sentence id="55" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="24">
       <word id="1" ref="Leuven|0014-047|55|1" form="καί" lemma="καί" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|55|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ADV" head="3"/>
       <word id="3" ref="Leuven|0014-047|55|3" form="ἀνάγνωθι" lemma="ἀναγιγνώσκω" postag="v2sama---" relation="PRED" head="0"/>
       <word id="4" ref="Leuven|0014-047|55|4" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="56" document_id="0014-047" subdoc="25">
+   <sentence id="56" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="25">
       <word id="1" ref="Leuven|0014-047|56|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="18"/>
       <word id="2" ref="Leuven|0014-047|56|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="17"/>
       <word id="3" ref="Leuven|0014-047|56|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="17"/>
@@ -1870,7 +1870,7 @@
       <word id="20" ref="Leuven|0014-047|56|20" form="ψηφισμάτων" lemma="ψήφισμα" postag="n-p---ng-" relation="OBJ_CO" head="18"/>
       <word id="21" ref="Leuven|0014-047|56|21" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="57" document_id="0014-047" subdoc="25">
+   <sentence id="57" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="25">
       <word id="1" ref="Leuven|0014-047|57|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="12"/>
       <word id="2" ref="Leuven|0014-047|57|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" ref="Leuven|0014-047|57|3" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="4"/>
@@ -1885,7 +1885,7 @@
       <word id="12" ref="Leuven|0014-047|57|12" form="μεμαρτύρηκεν" lemma="μαρτυρέω" postag="v3sria---" relation="PRED" head="0"/>
       <word id="13" ref="Leuven|0014-047|57|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="58" document_id="0014-047" subdoc="25">
+   <sentence id="58" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="25">
       <word id="1" ref="Leuven|0014-047|58|1" form="σκέψασθαι" lemma="σκέπτομαι" postag="v--anm---" relation="SBJ" head="5"/>
       <word id="2" ref="Leuven|0014-047|58|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|58|3" form="ὑμᾶς" lemma="σύ" postag="p-p---ma-" relation="SBJ" head="1"/>
@@ -1925,7 +1925,7 @@
       <word id="37" ref="Leuven|0014-047|58|37" form="ἀπεδίδου" lemma="ἀποδίδωμι" postag="v3siia---" relation="ATR" head="26"/>
       <word id="38" ref="Leuven|0014-047|58|38" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="59" document_id="0014-047" subdoc="26">
+   <sentence id="59" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="26">
       <word id="1" ref="Leuven|0014-047|59|1" form="ἐὰν" lemma="ἐάν" postag="c--------" relation="AuxC" head="7"/>
       <word id="2" ref="Leuven|0014-047|59|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|59|3" form="καθ’" lemma="κατά" postag="r--------" relation="AuxP" head="5"/>
@@ -1959,7 +1959,7 @@
       <word id="31" ref="Leuven|0014-047|59|31" form="κεκριμένα" lemma="κρίνω" postag="v-prpena-" relation="OBJ_CO" head="22"/>
       <word id="32" ref="Leuven|0014-047|59|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="60" document_id="0014-047" subdoc="26">
+   <sentence id="60" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="26">
       <word id="1" ref="Leuven|0014-047|60|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="13"/>
       <word id="2" ref="Leuven|0014-047|60|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|60|3" form="παρέλαβον" lemma="παραλαμβάνω" postag="v1saia---" relation="ADV" head="1"/>
@@ -1977,7 +1977,7 @@
       <word id="15" ref="Leuven|0014-047|60|15" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="13"/>
       <word id="16" ref="Leuven|0014-047|60|16" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="61" document_id="0014-047" subdoc="26">
+   <sentence id="61" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="26">
       <word id="1" ref="Leuven|0014-047|61|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="19"/>
       <word id="2" ref="Leuven|0014-047|61|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="19"/>
       <word id="3" ref="Leuven|0014-047|61|3" form="τοῦτό" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="5"/>
@@ -2009,7 +2009,7 @@
       <word id="29" ref="Leuven|0014-047|61|29" form="ἐπιμελητάς" lemma="ἐπιμελητής" postag="n-p---ma-" relation="ADV_CO" head="25"/>
       <word id="30" ref="Leuven|0014-047|61|30" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="62" document_id="0014-047" subdoc="26">
+   <sentence id="62" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="26">
       <word id="1" ref="Leuven|0014-047|62|1" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="3"/>
       <word id="2" ref="Leuven|0014-047|62|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|62|3" form="εἰσῆγον" lemma="εἰσάγω" postag="v3piia---" relation="PRED" head="0"/>
@@ -2024,7 +2024,7 @@
       <word id="12" ref="Leuven|0014-047|62|12" form="σκευῶν" lemma="σκεῦος" postag="n-p---ng-" relation="ADV" head="10"/>
       <word id="13" ref="Leuven|0014-047|62|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="63" document_id="0014-047" subdoc="27">
+   <sentence id="63" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="27">
       <word id="1" ref="Leuven|0014-047|63|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="8"/>
       <word id="2" ref="Leuven|0014-047|63|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|63|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ" head="4"/>
@@ -2038,7 +2038,7 @@
       <word id="11" ref="Leuven|0014-047|63|11" form="παρέξομαι" lemma="παρέχω" postag="v1sfim---" relation="PRED" head="0"/>
       <word id="12" ref="Leuven|0014-047|63|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="64" document_id="0014-047" subdoc="27">
+   <sentence id="64" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="27">
       <word id="1" ref="Leuven|0014-047|64|1" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="11"/>
       <word id="2" ref="Leuven|0014-047|64|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|64|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="11"/>
@@ -2052,7 +2052,7 @@
       <word id="11" ref="Leuven|0014-047|64|11" form="μεμαρτυρήκασιν" lemma="μαρτυρέω" postag="v3pria---" relation="PRED" head="0"/>
       <word id="12" ref="Leuven|0014-047|64|12" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="65" document_id="0014-047" subdoc="27">
+   <sentence id="65" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="27">
       <word id="1" ref="Leuven|0014-047|65|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="11"/>
       <word id="2" ref="Leuven|0014-047|65|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|65|3" form="εἰσήχθη" lemma="εἰσάγω" postag="v3saip---" relation="ATR" head="1"/>
@@ -2071,7 +2071,7 @@
       <word id="16" ref="Leuven|0014-047|65|16" form="ἀρχῆς" lemma="ἀρχή" postag="n-s---fg-" relation="ATR_CO" head="14"/>
       <word id="17" ref="Leuven|0014-047|65|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="66" document_id="0014-047" subdoc="28">
+   <sentence id="66" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="28">
       <word id="1" ref="Leuven|0014-047|66|1" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="SBJ" head="6"/>
       <word id="2" ref="Leuven|0014-047|66|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="22"/>
       <word id="3" ref="Leuven|0014-047|66|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="4"/>
@@ -2108,7 +2108,7 @@
       <word id="34" ref="Leuven|0014-047|66|34" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="35" insertion_id="0034e" artificial="elliptic" relation="APOS" lemma="," postag="u--------" form="," head="18"/>
    </sentence>
-   <sentence id="67" document_id="0014-047" subdoc="28">
+   <sentence id="67" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="28">
       <word id="1" ref="Leuven|0014-047|67|1" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="SBJ" head="9"/>
       <word id="2" ref="Leuven|0014-047|67|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="25"/>
       <word id="3" ref="Leuven|0014-047|67|3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5"/>
@@ -2136,7 +2136,7 @@
       <word id="25" ref="Leuven|0014-047|67|25" form="προβέβηκεν" lemma="προβαίνω" postag="v3sria---" relation="PRED" head="0"/>
       <word id="26" ref="Leuven|0014-047|67|26" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="68" document_id="0014-047" subdoc="28">
+   <sentence id="68" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="28">
       <word id="1" ref="Leuven|0014-047|68|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="34"/>
       <word id="2" ref="Leuven|0014-047|68|2" form="παρὼν" lemma="πάρειμι" postag="v-sppamn-" relation="ADV" head="15"/>
       <word id="3" ref="Leuven|0014-047|68|3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12"/>
@@ -2178,7 +2178,7 @@
       <word id="39" ref="Leuven|0014-047|68|38" form="ἐπαχθῆναι" lemma="ἐπάγω" postag="v--anp---" relation="OBJ" head="35"/>
       <word id="40" ref="Leuven|0014-047|68|39" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="69" document_id="0014-047" subdoc="29">
+   <sentence id="69" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="29">
       <word id="1" ref="Leuven|0014-047|69|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|69|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|69|3" form="ἀπῆλθεν" lemma="ἀπέρχομαι" postag="v3saia---" relation="ADV" head="1"/>
@@ -2245,7 +2245,7 @@
       <word id="64" insertion_id="0063f" artificial="elliptic" relation="PRED_CO" lemma="οἴομαι" postag="v3siie---" form="ᾤετο" head="36"/>
       <word id="65" insertion_id="0063g" artificial="elliptic" relation="OBJ_CO" lemma="ἀποδίδωμι" postag="v--anp---" form="ἀποδοθῆναι" head="50"/>
    </sentence>
-   <sentence id="70" document_id="0014-047" subdoc="29">
+   <sentence id="70" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="29">
       <word id="1" ref="Leuven|0014-047|70|1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="5"/>
       <word id="2" ref="Leuven|0014-047|70|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|70|3" form="ἂν" lemma="ἄν" postag="d--------" relation="AuxY" head="5"/>
@@ -2265,7 +2265,7 @@
       <word id="17" ref="Leuven|0014-047|70|17" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="15"/>
       <word id="18" ref="Leuven|0014-047|70|18" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="71" document_id="0014-047" subdoc="30">
+   <sentence id="71" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="30">
       <word id="1" ref="Leuven|0014-047|71|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|71|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" ref="Leuven|0014-047|71|3" form="Θεόφημος" lemma="Θεόφημος" postag="n-s---mn-" relation="SBJ" head="12"/>
@@ -2309,7 +2309,7 @@
       <word id="41" ref="Leuven|0014-047|71|40" form="ἐπισχεῖν" lemma="ἐπέχω" postag="v--ana---" relation="ADV" head="40"/>
       <word id="42" ref="Leuven|0014-047|71|41" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="72" document_id="0014-047" subdoc="30">
+   <sentence id="72" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="30">
       <word id="1" ref="Leuven|0014-047|72|1" form="ὥστε" lemma="ὥστε" postag="d--------" relation="AuxY" head="29"/>
       <word id="2" ref="Leuven|0014-047|72|2" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="5"/>
       <word id="3" ref="Leuven|0014-047|72|3" form="ἄν" lemma="ἄν" postag="d--------" relation="AuxY" head="5"/>
@@ -2343,7 +2343,7 @@
       <word id="31" ref="Leuven|0014-047|72|31" form="τούτῳ" lemma="οὗτος" postag="p-s---md-" relation="OBJ" head="29"/>
       <word id="32" ref="Leuven|0014-047|72|32" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="73" document_id="0014-047" subdoc="31">
+   <sentence id="73" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="31">
       <word id="1" ref="Leuven|0014-047|73|1" form="ταύτην" lemma="οὗτος" postag="a-s---fa-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|73|2" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|73|3" form="διάνοιαν" lemma="διάνοια" postag="n-s---fa-" relation="OBJ" head="4"/>
@@ -2382,7 +2382,7 @@
       <word id="36" ref="Leuven|0014-047|73|36" form="πεποίηκεν" lemma="ποιέω" postag="v3sria---" relation="OBJ" head="31"/>
       <word id="37" ref="Leuven|0014-047|73|37" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="74" document_id="0014-047" subdoc="31">
+   <sentence id="74" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="31">
       <word id="1" ref="Leuven|0014-047|74|1" form="δεινὴ" lemma="δεινός" postag="a-s---fn-" relation="PNOM" head="17"/>
       <word id="2" ref="Leuven|0014-047|74|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|74|3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
@@ -2401,7 +2401,7 @@
       <word id="16" ref="Leuven|0014-047|74|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="17" insertion_id="0016f" artificial="elliptic" relation="PRED" lemma="εἰμί" postag="v3spia---" form="ἐστιν" head="0"/>
    </sentence>
-   <sentence id="75" document_id="0014-047" subdoc="31">
+   <sentence id="75" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="31">
       <word id="1" ref="Leuven|0014-047|75|1" form="ταῦτα" lemma="οὗτος" postag="a-p---na-" relation="ATR" head="4"/>
       <word id="2" ref="Leuven|0014-047|75|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|75|3" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="4"/>
@@ -2436,7 +2436,7 @@
       <word id="32" ref="Leuven|0014-047|75|32" form="δικαστήριον" lemma="δικαστήριον" postag="n-s---na-" relation="OBJ" head="31"/>
       <word id="33" ref="Leuven|0014-047|75|33" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="76" document_id="0014-047" subdoc="32">
+   <sentence id="76" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="32">
       <word id="1" ref="Leuven|0014-047|76|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|76|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" ref="Leuven|0014-047|76|3" form="Ἀφαρεὺς" lemma="Ἀφαρεύς" postag="n-s---mn-" relation="SBJ" head="4"/>
@@ -2458,7 +2458,7 @@
       <word id="19" ref="Leuven|0014-047|76|19" form="τριηραρχίαν" lemma="τριηραρχία" postag="n-s---fa-" relation="OBJ" head="17"/>
       <word id="20" ref="Leuven|0014-047|76|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="77" document_id="0014-047" subdoc="32">
+   <sentence id="77" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="32">
       <word id="1" ref="Leuven|0014-047|77|1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="3"/>
       <word id="2" ref="Leuven|0014-047|77|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|77|3" form="φησι" lemma="φημί" postag="v3spia---" relation="PRED_CO" head="7"/>
@@ -2476,7 +2476,7 @@
       <word id="15" ref="Leuven|0014-047|77|15" form="Δημοχάρους" lemma="Δημοχάρης" postag="n-s---mg-" relation="SBJ" head="13"/>
       <word id="16" ref="Leuven|0014-047|77|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="78" document_id="0014-047" subdoc="32">
+   <sentence id="78" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="32">
       <word id="1" ref="Leuven|0014-047|78|1" form="ὅτε" lemma="ὅτε" postag="c--------" relation="AuxC" head="8"/>
       <word id="2" ref="Leuven|0014-047|78|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="21"/>
       <word id="3" ref="Leuven|0014-047|78|3" form="ἔζη" lemma="ζάω" postag="v3siia---" relation="ADV" head="1"/>
@@ -2510,7 +2510,7 @@
       <word id="31" ref="Leuven|0014-047|78|31" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="27"/>
       <word id="32" ref="Leuven|0014-047|78|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="79" document_id="0014-047" subdoc="32">
+   <sentence id="79" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="32">
       <word id="1" ref="Leuven|0014-047|79|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="8"/>
       <word id="2" ref="Leuven|0014-047|79|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|79|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ" head="4"/>
@@ -2521,7 +2521,7 @@
       <word id="8" ref="Leuven|0014-047|79|8" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="6"/>
       <word id="9" ref="Leuven|0014-047|79|9" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="80" document_id="0014-047" subdoc="33">
+   <sentence id="80" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="33">
       <word id="1" ref="Leuven|0014-047|80|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
       <word id="2" ref="Leuven|0014-047|80|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="27"/>
       <word id="3" ref="Leuven|0014-047|80|3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="27"/>
@@ -2577,7 +2577,7 @@
       <word id="53" ref="Leuven|0014-047|80|53" form="δικαστηρίῳ" lemma="δικαστήριον" postag="n-s---nd-" relation="ADV" head="51"/>
       <word id="54" ref="Leuven|0014-047|80|54" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="81" document_id="0014-047" subdoc="33">
+   <sentence id="81" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="33">
       <word id="1" ref="Leuven|0014-047|81|1" form="προσῇσαν" lemma="πρόσειμι" postag="v3piia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|81|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|81|3" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="5"/>
@@ -2597,7 +2597,7 @@
       <word id="17" ref="Leuven|0014-047|81|17" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="12"/>
       <word id="18" ref="Leuven|0014-047|81|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="82" document_id="0014-047" subdoc="33">
+   <sentence id="82" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="33">
       <word id="1" ref="Leuven|0014-047|82|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5"/>
       <word id="2" ref="Leuven|0014-047|82|2" form="πολλῶν" lemma="πολύς" postag="a-p---mg-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|82|3" form="λόγων" lemma="λόγος" postag="n-p---mg-" relation="SBJ" head="4"/>
@@ -2619,7 +2619,7 @@
       <word id="19" ref="Leuven|0014-047|82|19" form="δυνώμεθα" lemma="δύναμαι" postag="v1ppse---" relation="ATR" head="16"/>
       <word id="20" ref="Leuven|0014-047|82|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="83" document_id="0014-047" subdoc="34">
+   <sentence id="83" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="34">
       <word id="1" ref="Leuven|0014-047|83|1" form="γενομένου" lemma="γίγνομαι" postag="v-sapmng-" relation="ADV_CO" head="10"/>
       <word id="2" ref="Leuven|0014-047|83|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="41"/>
       <word id="3" ref="Leuven|0014-047|83|3" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="4"/>
@@ -2703,7 +2703,7 @@
       <word id="81" ref="Leuven|0014-047|83|81" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="ADV" head="77"/>
       <word id="82" ref="Leuven|0014-047|83|82" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="84" document_id="0014-047" subdoc="35">
+   <sentence id="84" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="35">
       <word id="1" ref="Leuven|0014-047|84|1" form="ἀποκριναμένου" lemma="ἀποκρίνω" postag="v-sapmmg-" relation="ADV" head="31"/>
       <word id="2" ref="Leuven|0014-047|84|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="31"/>
       <word id="3" ref="Leuven|0014-047|84|3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1"/>
@@ -2743,7 +2743,7 @@
       <word id="37" ref="Leuven|0014-047|84|37" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="38" insertion_id="0037e" artificial="elliptic" relation="OBJ_CO" lemma="ἔοικα" postag="v3sroa---" form="οἰκοίη" head="15"/>
    </sentence>
-   <sentence id="85" document_id="0014-047" subdoc="35">
+   <sentence id="85" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="35">
       <word id="1" ref="Leuven|0014-047|85|1" form="καταλαβὼν" lemma="καταλαμβάνω" postag="v-sapamn-" relation="ADV" head="8"/>
       <word id="2" ref="Leuven|0014-047|85|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|85|3" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" head="6"/>
@@ -2789,7 +2789,7 @@
       <word id="43" ref="Leuven|0014-047|85|43" form="ἀδίκων" lemma="ἄδικος" postag="a-p---fg-" relation="ATR" head="42"/>
       <word id="44" ref="Leuven|0014-047|85|44" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="86" document_id="0014-047" subdoc="36">
+   <sentence id="86" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="36">
       <word id="1" ref="Leuven|0014-047|86|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="25"/>
       <word id="2" ref="Leuven|0014-047|86|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="25"/>
       <word id="3" ref="Leuven|0014-047|86|3" form="ἀφικνεῖται" lemma="ἀφικνέομαι" postag="v3spie---" relation="ADV" head="1"/>
@@ -2822,7 +2822,7 @@
       <word id="30" ref="Leuven|0014-047|86|30" form="βουλῆς" lemma="βουλή" postag="n-s---fg-" relation="ATR" head="28"/>
       <word id="31" ref="Leuven|0014-047|86|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="87" document_id="0014-047" subdoc="36">
+   <sentence id="87" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="36">
       <word id="1" ref="Leuven|0014-047|87|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="35"/>
       <word id="2" ref="Leuven|0014-047|87|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="35"/>
       <word id="3" ref="Leuven|0014-047|87|3" form="ταῦτά" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
@@ -2892,7 +2892,7 @@
       <word id="67" ref="Leuven|0014-047|87|67" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="65"/>
       <word id="68" ref="Leuven|0014-047|87|68" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="88" document_id="0014-047" subdoc="37">
+   <sentence id="88" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="37">
       <word id="1" ref="Leuven|0014-047|88|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="6"/>
       <word id="2" ref="Leuven|0014-047|88|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|88|3" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="16"/>
@@ -2910,7 +2910,7 @@
       <word id="15" ref="Leuven|0014-047|88|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="16" ref="Leuven|0014-047|88|16" form="[0]" lemma="[0]" postag="v_____---" relation="ADV" artificial="elliptic" insertion_id="0015e" head="1"/>
    </sentence>
-   <sentence id="89" document_id="0014-047" subdoc="37">
+   <sentence id="89" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="37">
       <word id="1" ref="Leuven|0014-047|89|1" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="OBJ" head="7"/>
       <word id="2" ref="Leuven|0014-047|89|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|89|3" form="ἐθέλοντος" lemma="ἐθέλω" postag="v-sppamg-" relation="ADV" head="9"/>
@@ -2932,7 +2932,7 @@
       <word id="19" ref="Leuven|0014-047|89|19" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="18"/>
       <word id="20" ref="Leuven|0014-047|89|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="90" document_id="0014-047" subdoc="38">
+   <sentence id="90" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="38">
       <word id="1" ref="Leuven|0014-047|90|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7"/>
       <word id="2" ref="Leuven|0014-047|90|2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|90|3" form="Θεόφημός" lemma="Θεόφημος" postag="n-s---mn-" relation="SBJ" head="5"/>
@@ -2960,7 +2960,7 @@
       <word id="25" ref="Leuven|0014-047|90|25" form="σκευῶν" lemma="σκεῦος" postag="n-p---ng-" relation="ATR" head="22"/>
       <word id="26" ref="Leuven|0014-047|90|26" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="91" document_id="0014-047" subdoc="38">
+   <sentence id="91" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="38">
       <word id="1" ref="Leuven|0014-047|91|1" form="ἔτυχεν" lemma="τυγχάνω" postag="v3saia---" relation="PRED_CO" head="12"/>
       <word id="2" ref="Leuven|0014-047|91|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" ref="Leuven|0014-047|91|3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
@@ -2978,7 +2978,7 @@
       <word id="15" ref="Leuven|0014-047|91|15" form="εἰσιέναι" lemma="εἰσέρχομαι" postag="v--pna---" relation="OBJ" head="14"/>
       <word id="16" ref="Leuven|0014-047|91|16" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="92" document_id="0014-047" subdoc="38">
+   <sentence id="92" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="38">
       <word id="1" ref="Leuven|0014-047|92|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
       <word id="2" ref="Leuven|0014-047|92|2" form="ἐπεπύσμην" lemma="πυνθάνομαι" postag="v1slim---" relation="PRED" head="0"/>
       <word id="3" ref="Leuven|0014-047|92|3" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="2"/>
@@ -2988,7 +2988,7 @@
       <word id="7" ref="Leuven|0014-047|92|7" form="γεγαμηκώς" lemma="γαμέω" postag="v-srpamn-" relation="PNOM" head="6"/>
       <word id="8" ref="Leuven|0014-047|92|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="93" document_id="0014-047" subdoc="38">
+   <sentence id="93" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="38">
       <word id="1" ref="Leuven|0014-047|93|1" form="εἰσιόντος" lemma="εἰσέρχομαι" postag="v-sppamg-" relation="ADV" head="4"/>
       <word id="2" ref="Leuven|0014-047|93|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|93|3" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="1"/>
@@ -3007,7 +3007,7 @@
       <word id="16" ref="Leuven|0014-047|93|16" form="ἠμυνάμην" lemma="ἀμύνω" postag="v1saim---" relation="PRED_CO" head="11"/>
       <word id="17" ref="Leuven|0014-047|93|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="94" document_id="0014-047" subdoc="39">
+   <sentence id="94" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="39">
       <word id="1" ref="Leuven|0014-047|94|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="19"/>
       <word id="2" ref="Leuven|0014-047|94|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|94|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ" head="4"/>
@@ -3045,7 +3045,7 @@
       <word id="35" ref="Leuven|0014-047|94|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="36" ref="Leuven|0014-047|94|36" form="[0]" lemma="[0]" postag="v_____---" relation="ADV" artificial="elliptic" insertion_id="0035e" head="20"/>
    </sentence>
-   <sentence id="95" document_id="0014-047" subdoc="39">
+   <sentence id="95" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="39">
       <word id="1" ref="Leuven|0014-047|95|1" form="ταύτῃ" lemma="οὗτος" postag="a-s---fd-" relation="ATR" head="4"/>
       <word id="2" ref="Leuven|0014-047|95|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="29"/>
       <word id="3" ref="Leuven|0014-047|95|3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="4"/>
@@ -3098,7 +3098,7 @@
       <word id="50" ref="Leuven|0014-047|95|49" form="βασανιζομένην" lemma="βασανίζω" postag="v-sppefa-" relation="ADV" head="47"/>
       <word id="51" ref="Leuven|0014-047|95|50" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="96" document_id="0014-047" subdoc="40">
+   <sentence id="96" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="40">
       <word id="1" ref="Leuven|0014-047|96|1" form="οἷς" lemma="ὅς" postag="a-p---md_" relation="ATR" head="5"/>
       <word id="2" ref="Leuven|0014-047|96|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|96|3" form="τότε" lemma="τότε" postag="d--------" relation="ADV" head="4"/>
@@ -3112,7 +3112,7 @@
       <word id="11" ref="Leuven|0014-047|96|11" form="ποιοῦντες" lemma="ποιέω" postag="v-pppamn-" relation="ADV" head="9"/>
       <word id="12" ref="Leuven|0014-047|96|12" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="97" document_id="0014-047" subdoc="40">
+   <sentence id="97" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="40">
       <word id="1" ref="Leuven|0014-047|97|1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|97|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|97|3" form="ἄνθρωπον" lemma="ἄνθρωπος" postag="n-s---fa-" relation="OBJ" head="6"/>
@@ -3127,7 +3127,7 @@
       <word id="12" ref="Leuven|0014-047|97|12" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="11"/>
       <word id="13" ref="Leuven|0014-047|97|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="98" document_id="0014-047" subdoc="40">
+   <sentence id="98" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="40">
       <word id="1" ref="Leuven|0014-047|98|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="13"/>
       <word id="2" ref="Leuven|0014-047|98|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|98|3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
@@ -3184,7 +3184,7 @@
       <word id="54" ref="Leuven|0014-047|98|54" form="εἰσπράττοντα" lemma="εἰσπράσσω" postag="v-sppama-" relation="ADV_CO" head="44"/>
       <word id="55" ref="Leuven|0014-047|98|55" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="99" document_id="0014-047" subdoc="40">
+   <sentence id="99" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="40">
       <word id="1" ref="Leuven|0014-047|99|1" form="καί" lemma="καί" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|99|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="3"/>
       <word id="3" ref="Leuven|0014-047|99|3" form="ἀνάγνωθι" lemma="ἀναγιγνώσκω" postag="v2sama---" relation="PRED" head="0"/>
@@ -3195,7 +3195,7 @@
       <word id="8" ref="Leuven|0014-047|99|8" form="μαρτυρίαν" lemma="μαρτυρία" postag="n-s---fa-" relation="OBJ_CO" head="6"/>
       <word id="9" ref="Leuven|0014-047|99|9" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="100" document_id="0014-047" subdoc="41">
+   <sentence id="100" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="41">
       <word id="1" ref="Leuven|0014-047|100|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="19"/>
       <word id="2" ref="Leuven|0014-047|100|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="19"/>
       <word id="3" ref="Leuven|0014-047|100|3" form="ἀφῃρέθην" lemma="ἀφαιρέω" postag="v1saip---" relation="ADV_CO" head="9"/>
@@ -3231,7 +3231,7 @@
       <word id="33" ref="Leuven|0014-047|100|33" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="34" insertion_id="0033e" artificial="elliptic" relation="OBJ_CO" lemma="εἰμί" postag="v3siia---" form="ἦν" head="27"/>
    </sentence>
-   <sentence id="101" document_id="0014-047" subdoc="41">
+   <sentence id="101" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="41">
       <word id="1" ref="Leuven|0014-047|101|1" form="ἀγανακτήσασα" lemma="ἀγανακτέω" postag="v-sapafn-" relation="ADV_CO" head="16"/>
       <word id="2" ref="Leuven|0014-047|101|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="42"/>
       <word id="3" ref="Leuven|0014-047|101|3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
@@ -3311,7 +3311,7 @@
       <word id="77" ref="Leuven|0014-047|101|77" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="78" insertion_id="0077e" artificial="elliptic" relation="PRED_CO" lemma="κελεύω" postag="v3siia---" form="ἐκέλευεν" head="42"/>
    </sentence>
-   <sentence id="102" document_id="0014-047" subdoc="42">
+   <sentence id="102" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="42">
       <word id="1" ref="Leuven|0014-047|102|1" form="γενομένης" lemma="γίγνομαι" postag="v-sapmfg-" relation="ADV_CO" head="22"/>
       <word id="2" ref="Leuven|0014-047|102|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="32"/>
       <word id="3" ref="Leuven|0014-047|102|3" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="4"/>
@@ -3348,7 +3348,7 @@
       <word id="34" ref="Leuven|0014-047|102|34" form="ἀδικεῖν" lemma="ἀδικέω" postag="v--pna---" relation="OBJ" head="33"/>
       <word id="35" ref="Leuven|0014-047|102|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="103" document_id="0014-047" subdoc="43">
+   <sentence id="103" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="43">
       <word id="1" ref="Leuven|0014-047|103|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="56"/>
       <word id="2" ref="Leuven|0014-047|103|2" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="56"/>
       <word id="3" ref="Leuven|0014-047|103|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="6"/>
@@ -3415,7 +3415,7 @@
       <word id="64" ref="Leuven|0014-047|104|31" form="προστιμηθῆναι" lemma="προστιμάω" postag="v--anp---" relation="ADV" head="57"/>
       <word id="65" ref="Leuven|0014-047|104|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="104" document_id="0014-047" subdoc="44">
+   <sentence id="104" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="44">
       <word id="1" ref="Leuven|0014-047|105|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="19"/>
       <word id="2" ref="Leuven|0014-047|105|2" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
       <word id="3" ref="Leuven|0014-047|105|3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="9"/>
@@ -3448,7 +3448,7 @@
       <word id="30" ref="Leuven|0014-047|105|30" form="παρέξομαι" lemma="παρέχω" postag="v1sfim---" relation="PRED_CO" head="19"/>
       <word id="31" ref="Leuven|0014-047|105|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="105" document_id="0014-047" subdoc="44">
+   <sentence id="105" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="44">
       <word id="1" ref="Leuven|0014-047|106|1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="11"/>
       <word id="2" ref="Leuven|0014-047|106|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|106|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="11"/>
@@ -3464,7 +3464,7 @@
       <word id="13" ref="Leuven|0014-047|106|13" form="τούτους" lemma="οὗτος" postag="p-p---ma-" relation="ADV" head="12"/>
       <word id="14" ref="Leuven|0014-047|106|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="106" document_id="0014-047" subdoc="44">
+   <sentence id="106" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="44">
       <word id="1" ref="Leuven|0014-047|107|1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="8"/>
       <word id="2" ref="Leuven|0014-047|107|2" form="τό" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="4"/>
       <word id="3" ref="Leuven|0014-047|107|3" form="γε" lemma="γε" postag="d--------" relation="AuxZ" head="4"/>
@@ -3496,7 +3496,7 @@
       <word id="29" ref="Leuven|0014-047|107|29" form="πωλῇ" lemma="πωλέω" postag="v3spsa---" relation="ATR_CO" head="22"/>
       <word id="30" ref="Leuven|0014-047|107|30" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="107" document_id="0014-047" subdoc="44">
+   <sentence id="107" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="44">
       <word id="1" ref="Leuven|0014-047|108|1" form="τοιαύτη" lemma="τοιοῦτος" postag="a-s---fn-" relation="PNOM" head="5"/>
       <word id="2" ref="Leuven|0014-047|108|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|108|3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
@@ -3510,7 +3510,7 @@
       <word id="11" ref="Leuven|0014-047|108|11" form="σκευῶν" lemma="σκεῦος" postag="n-p---fg-" relation="ATR" head="4"/>
       <word id="12" ref="Leuven|0014-047|108|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="108" document_id="0014-047" subdoc="44">
+   <sentence id="108" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="44">
       <word id="1" ref="Leuven|0014-047|109|1" form="καί" lemma="καί" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|109|2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ADV" head="3"/>
       <word id="3" ref="Leuven|0014-047|109|3" form="ἀνάγνωθι" lemma="ἀναγιγνώσκω" postag="v2sama---" relation="PRED" head="0"/>
@@ -3518,7 +3518,7 @@
       <word id="5" ref="Leuven|0014-047|109|5" form="ψήφισμα" lemma="ψήφισμα" postag="n-s---na-" relation="OBJ" head="3"/>
       <word id="6" ref="Leuven|0014-047|109|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="109" document_id="0014-047" subdoc="45">
+   <sentence id="109" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="45">
       <word id="1" ref="Leuven|0014-047|110|1" form="καταπλεύσας" lemma="καταπλέω" postag="v-sapamn-" relation="ADV" head="23"/>
       <word id="2" ref="Leuven|0014-047|110|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="23"/>
       <word id="3" ref="Leuven|0014-047|110|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -3551,7 +3551,7 @@
       <word id="30" ref="Leuven|0014-047|110|30" form="αἰκείας" lemma="αἰκία" postag="n-s---fg-" relation="ATR" head="28"/>
       <word id="31" ref="Leuven|0014-047|110|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="110" document_id="0014-047" subdoc="45">
+   <sentence id="110" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="45">
       <word id="1" ref="Leuven|0014-047|111|1" form="ἀντιπροσκαλεσαμένου" lemma="ἀντιπροσκαλέομαι" postag="v-sapmmg-" relation="ADV_CO" head="6"/>
       <word id="2" ref="Leuven|0014-047|111|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="27"/>
       <word id="3" ref="Leuven|0014-047|111|3" form="κ-" lemma="καί" postag="d--------" relation="AuxY" head="6"/>
@@ -3588,7 +3588,7 @@
       <word id="34" ref="Leuven|0014-047|111|34" form="ὑμᾶς" lemma="σύ" postag="p-p---ma-" relation="OBJ" head="33"/>
       <word id="35" ref="Leuven|0014-047|111|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="111" document_id="0014-047" subdoc="46">
+   <sentence id="111" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="46">
       <word id="1" ref="Leuven|0014-047|112|1" form="παρασχόμενος" lemma="παρέχω" postag="v-sapmmn-" relation="ADV_CO" head="27"/>
       <word id="2" ref="Leuven|0014-047|112|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="32"/>
       <word id="3" ref="Leuven|0014-047|112|3" form="ἐκεῖνος" lemma="ἐκεῖνος" postag="p-s---mn-" relation="SBJ" head="32"/>
@@ -3626,7 +3626,7 @@
       <word id="35" ref="Leuven|0014-047|112|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="36" insertion_id="0035e" artificial="elliptic" relation="ATR_CO" lemma="μαρτυρέω" postag="v3pria---" form="μεμαρτυρήκασι" head="15"/>
    </sentence>
-   <sentence id="112" document_id="0014-047" subdoc="46">
+   <sentence id="112" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="46">
       <word id="1" ref="Leuven|0014-047|113|1" form="δέομαι" lemma="δέω2" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|113|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|113|3" form="ὑμῶν" lemma="σύ" postag="p-p---mg-" relation="OBJ" head="1"/>
@@ -3657,7 +3657,7 @@
       <word id="28" ref="Leuven|0014-047|113|28" form="σκέψασθαι" lemma="σκέπτομαι" postag="v--anm---" relation="OBJ_AP_CO" head="22"/>
       <word id="29" ref="Leuven|0014-047|113|29" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="113" document_id="0014-047" subdoc="47">
+   <sentence id="113" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="47">
       <word id="1" ref="Leuven|0014-047|114|1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="14"/>
       <word id="2" ref="Leuven|0014-047|114|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="14"/>
       <word id="3" ref="Leuven|0014-047|114|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="14"/>
@@ -3688,7 +3688,7 @@
       <word id="28" ref="Leuven|0014-047|114|28" form="ἀδίκων" lemma="ἄδικος" postag="a-p---fg-" relation="ATR" head="27"/>
       <word id="29" ref="Leuven|0014-047|114|29" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="114" document_id="0014-047" subdoc="47">
+   <sentence id="114" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="47">
       <word id="1" ref="Leuven|0014-047|115|1" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="PNOM" head="3"/>
       <word id="2" ref="Leuven|0014-047|115|2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|115|3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
@@ -3696,7 +3696,7 @@
       <word id="5" ref="Leuven|0014-047|115|5" form="αἴκεια" lemma="αἰκία" postag="n-s---fn-" relation="SBJ" head="3"/>
       <word id="6" ref="Leuven|0014-047|115|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="115" document_id="0014-047" subdoc="47">
+   <sentence id="115" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="47">
       <word id="1" ref="Leuven|0014-047|116|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="6"/>
       <word id="2" ref="Leuven|0014-047|116|2" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|116|3" form="μάρτυρας" lemma="μάρτυς" postag="n-p---ma-" relation="OBJ" head="6"/>
@@ -3735,7 +3735,7 @@
       <word id="36" ref="Leuven|0014-047|116|34" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="37" insertion_id="0036e" artificial="elliptic" relation="ADV_CO" lemma="παραδίδωμι" postag="v-sppamg-" form="παραδιδόντος" head="30"/>
    </sentence>
-   <sentence id="116" document_id="0014-047" subdoc="48">
+   <sentence id="116" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="48">
       <word id="1" ref="Leuven|0014-047|117|1" form="διπλῆν" lemma="διπλόος" postag="a-s---fa-" relation="ATR" head="5"/>
       <word id="2" ref="Leuven|0014-047|117|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" ref="Leuven|0014-047|117|3" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="SBJ" head="6"/>
@@ -3782,7 +3782,7 @@
       <word id="44" ref="Leuven|0014-047|117|44" form="ὑμετέροις" lemma="ὑμέτερος" postag="a-p---nd-" relation="ATR" head="42"/>
       <word id="45" ref="Leuven|0014-047|117|45" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="117" document_id="0014-047" subdoc="48">
+   <sentence id="117" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="48">
       <word id="1" ref="Leuven|0014-047|118|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="31"/>
       <word id="2" ref="Leuven|0014-047|118|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="27"/>
       <word id="3" ref="Leuven|0014-047|118|3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
@@ -3816,7 +3816,7 @@
       <word id="31" ref="Leuven|0014-047|118|31" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="27"/>
       <word id="32" ref="Leuven|0014-047|118|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="118" document_id="0014-047" subdoc="49">
+   <sentence id="118" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="49">
       <word id="1" ref="Leuven|0014-047|119|1" form="βούλομαι" lemma="βούλομαι" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|119|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|119|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -3833,7 +3833,7 @@
       <word id="14" ref="Leuven|0014-047|119|14" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="13"/>
       <word id="15" ref="Leuven|0014-047|119|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="119" document_id="0014-047" subdoc="49">
+   <sentence id="119" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="49">
       <word id="1" ref="Leuven|0014-047|120|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="27"/>
       <word id="2" ref="Leuven|0014-047|120|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="27"/>
       <word id="3" ref="Leuven|0014-047|120|3" form="ὦφλον" lemma="ὀφλισκάνω" postag="v1saia---" relation="ADV" head="1"/>
@@ -3880,7 +3880,7 @@
       <word id="44" ref="Leuven|0014-047|120|44" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="45"/>
       <word id="45" ref="Leuven|0014-047|120|45" form="ἐκτίνειν" lemma="ἐκτίνω" postag="v--pna---" relation="OBJ" head="43"/>
       <word id="46" ref="Leuven|0014-047|120|46" form="συμβέβηκέ" lemma="συμβαίνω" postag="v3sria---" relation="OBJ_AP_CO" head="58"/>
-      <word id="47" ref="Leuven|0014-047|120|47" form="μοι" lemma="ἐγώ" postag="p-s----d-" relation="OBJ" head="46"/>
+      <word id="47" ref="Leuven|0014-047|120|47" form="μοι" lemma="ἐγώ" postag="p-s---md-" relation="OBJ" head="46"/>
       <word id="48" ref="Leuven|0014-047|120|48" form="τριηραρχία" lemma="τριηραρχία" postag="n-s---fn-" relation="SBJ" head="46"/>
       <word id="49" ref="Leuven|0014-047|120|49" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="50" ref="Leuven|0014-047|120|50" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="58"/>
@@ -3903,7 +3903,7 @@
       <word id="67" ref="Leuven|0014-047|120|67" form="ναῦν" lemma="ναῦς" postag="n-s---fa-" relation="OBJ" head="63"/>
       <word id="68" ref="Leuven|0014-047|120|68" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="120" document_id="0014-047" subdoc="50">
+   <sentence id="120" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="50">
       <word id="1" ref="Leuven|0014-047|121|1" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|121|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|121|3" form="ἀργύριον" lemma="ἀργύριον" postag="n-s---na-" relation="OBJ" head="8"/>
@@ -3916,7 +3916,7 @@
       <word id="10" ref="Leuven|0014-047|121|10" form="κατεχρησάμην" lemma="καταχράω" postag="v1saim---" relation="PRED" head="0"/>
       <word id="11" ref="Leuven|0014-047|121|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="121" document_id="0014-047" subdoc="50">
+   <sentence id="121" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="50">
       <word id="1" ref="Leuven|0014-047|122|1" form="ἐδεόμην" lemma="δέω2" postag="v1siie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|122|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|122|3" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="OBJ" head="1"/>
@@ -3931,7 +3931,7 @@
       <word id="12" ref="Leuven|0014-047|122|12" form="ἀποστείλω" lemma="ἀποστέλλω" postag="v1sasa---" relation="ADV" head="8"/>
       <word id="13" ref="Leuven|0014-047|122|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="122" document_id="0014-047" subdoc="50">
+   <sentence id="122" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="50">
       <word id="1" ref="Leuven|0014-047|123|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="7"/>
       <word id="2" ref="Leuven|0014-047|123|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|123|3" form="ῥᾳδίως" lemma="ῥᾴδιος" postag="d--------" relation="ADV_CO" head="5"/>
@@ -3941,14 +3941,14 @@
       <word id="7" ref="Leuven|0014-047|123|7" form="ἀποκρίνεται" lemma="ἀποκρίνω" postag="v3spie---" relation="PRED" head="0"/>
       <word id="8" ref="Leuven|0014-047|123|8" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="123" document_id="0014-047" subdoc="50">
+   <sentence id="123" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="50">
       <word id="1" ref="Leuven|0014-047|124|1" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="SBJ" head="2"/>
       <word id="2" ref="Leuven|0014-047|124|2" form="κωλύει" lemma="κωλύω" postag="v3spia---" relation="PRED" head="0"/>
       <word id="3" ref="Leuven|0014-047|124|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="4" ref="Leuven|0014-047|124|4" form="ἔφη" lemma="φημί" postag="v3siia---" relation="AuxY" head="2"/>
       <word id="5" ref="Leuven|0014-047|124|5" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="124" document_id="0014-047" subdoc="50">
+   <sentence id="124" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="50">
       <word id="1" ref="Leuven|0014-047|125|1" form="ἀλλ’" lemma="ἀλλά" postag="d-------_" relation="AuxY" head="7"/>
       <word id="2" ref="Leuven|0014-047|125|2" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="7"/>
       <word id="3" ref="Leuven|0014-047|125|3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
@@ -3960,7 +3960,7 @@
       <word id="9" ref="Leuven|0014-047|125|9" form="ἐμοί" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="7"/>
       <word id="10" ref="Leuven|0014-047|125|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="125" document_id="0014-047" subdoc="51">
+   <sentence id="125" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="51">
       <word id="1" ref="Leuven|0014-047|126|1" form="ἀποκριναμένου" lemma="ἀποκρίνω" postag="v-sapmmg-" relation="ADV_CO" head="7"/>
       <word id="2" ref="Leuven|0014-047|126|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="54"/>
       <word id="3" ref="Leuven|0014-047|126|3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1"/>
@@ -4024,7 +4024,7 @@
       <word id="61" ref="Leuven|0014-047|126|61" form="καταδίκην" lemma="δίκη" postag="n-s---fa-" relation="OBJ" head="59"/>
       <word id="62" ref="Leuven|0014-047|126|62" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="126" document_id="0014-047" subdoc="51">
+   <sentence id="126" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="51">
       <word id="1" ref="Leuven|0014-047|127|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
       <word id="2" ref="Leuven|0014-047|127|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|127|3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
@@ -4038,7 +4038,7 @@
       <word id="11" ref="Leuven|0014-047|127|11" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="9"/>
       <word id="12" ref="Leuven|0014-047|127|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="127" document_id="0014-047" subdoc="52">
+   <sentence id="127" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="52">
       <word id="1" ref="Leuven|0014-047|128|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|128|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="34"/>
       <word id="3" ref="Leuven|0014-047|128|3" form="Θεόφημος" lemma="Θεόφημος" postag="n-s---mn-" relation="SBJ" head="34"/>
@@ -4087,7 +4087,7 @@
       <word id="46" insertion_id="0045g" artificial="elliptic" relation="PRED_CO" lemma="λαμβάνω" postag="v3spia---" form="λαμβάνει" head="22"/>
       <word id="47" insertion_id="0045h" artificial="elliptic" relation="PRED_CO" lemma="λαμβάνω" postag="v3spia---" form="λαμβάνει" head="34"/>
    </sentence>
-   <sentence id="128" document_id="0014-047" subdoc="52">
+   <sentence id="128" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="52">
       <word id="1" ref="Leuven|0014-047|129|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="5"/>
       <word id="2" ref="Leuven|0014-047|129|2" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="3"/>
       <word id="3" ref="Leuven|0014-047|129|3" form="ἔχουσιν" lemma="ἔχω" postag="v-pppamd-" relation="ATR" head="6"/>
@@ -4096,7 +4096,7 @@
       <word id="6" ref="Leuven|0014-047|129|6" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="OBJ" head="5"/>
       <word id="7" ref="Leuven|0014-047|129|7" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="129" document_id="0014-047" subdoc="53">
+   <sentence id="129" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="53">
       <word id="1" ref="Leuven|0014-047|130|1" form="ἀλλ’" lemma="ἀλλά" postag="d-------_" relation="AuxY" head="27"/>
       <word id="2" ref="Leuven|0014-047|130|2" form="ἐπεισελθόντες" lemma="ἐπεισέρχομαι" postag="v-papamn-" relation="ADV" head="24"/>
       <word id="3" ref="Leuven|0014-047|130|3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="2"/>
@@ -4191,7 +4191,7 @@
       <word id="92" ref="Leuven|0014-047|130|91" form="οἰκίᾳ" lemma="οἰκία" postag="n-s---fd-" relation="ADV" head="90"/>
       <word id="93" ref="Leuven|0014-047|130|92" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="130" document_id="0014-047" subdoc="54">
+   <sentence id="130" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="54">
       <word id="1" ref="Leuven|0014-047|131|1" form="ᾤοντο" lemma="οἴομαι" postag="v3piie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|131|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|131|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
@@ -4205,7 +4205,7 @@
       <word id="11" ref="Leuven|0014-047|131|11" form="πλείω" lemma="πολύς" postag="a-p---nac" relation="OBJ_CO" head="9"/>
       <word id="12" ref="Leuven|0014-047|131|12" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="131" document_id="0014-047" subdoc="54">
+   <sentence id="131" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="54">
       <word id="1" ref="Leuven|0014-047|132|1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="6"/>
       <word id="2" ref="Leuven|0014-047|132|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|132|3" form="οὖσάν" lemma="εἰμί" postag="v-sppafa-" relation="ATR" head="6"/>
@@ -4218,7 +4218,7 @@
       <word id="10" ref="Leuven|0014-047|132|10" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
       <word id="11" ref="Leuven|0014-047|132|11" form="[0]" lemma="[0]" postag="v_____---" relation="PRED" artificial="elliptic" insertion_id="0010e" head="0"/>
    </sentence>
-   <sentence id="132" document_id="0014-047" subdoc="54">
+   <sentence id="132" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="54">
       <word id="1" ref="Leuven|0014-047|133|1" form="ἀλλ’" lemma="ἀλλά" postag="d-------_" relation="AuxY" head="20"/>
       <word id="2" ref="Leuven|0014-047|133|2" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="20"/>
       <word id="3" ref="Leuven|0014-047|133|3" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="4"/>
@@ -4242,7 +4242,7 @@
       <word id="21" ref="Leuven|0014-047|133|21" form="πέπραται" lemma="πιπράσκω" postag="v3srie---" relation="PRED_CO" head="20"/>
       <word id="22" ref="Leuven|0014-047|133|22" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="133" document_id="0014-047" subdoc="54">
+   <sentence id="133" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="54">
       <word id="1" ref="Leuven|0014-047|134|1" form="ὅσα" lemma="ὅσος" postag="a-p---nn-" relation="SBJ" head="3"/>
       <word id="2" ref="Leuven|0014-047|134|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|134|3" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ATR" head="7"/>
@@ -4254,7 +4254,7 @@
       <word id="9" ref="Leuven|0014-047|134|9" form="ᾤχοντο" lemma="οἴχομαι" postag="v3piie---" relation="PRED" head="0"/>
       <word id="10" ref="Leuven|0014-047|134|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="134" document_id="0014-047" subdoc="55">
+   <sentence id="134" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="55">
       <word id="1" ref="Leuven|0014-047|135|1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="9"/>
       <word id="2" ref="Leuven|0014-047|135|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="21"/>
       <word id="3" ref="Leuven|0014-047|135|3" form="τούτοις" lemma="οὗτος" postag="p-p---nd-" relation="ADV" head="1"/>
@@ -4300,7 +4300,7 @@
       <word id="43" insertion_id="0042f" artificial="elliptic" relation="PRED_CO" lemma="τυγχάνω" postag="v3saia---" form="ἔτυχεν" head="21"/>
       <word id="44" insertion_id="0042e" artificial="elliptic" relation="PNOM" lemma="ἀριστάω" postag="v-sppafn-" form="ἀριστῶσα" head="43"/>
    </sentence>
-   <sentence id="135" document_id="0014-047" subdoc="55">
+   <sentence id="135" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="55">
       <word id="1" ref="Leuven|0014-047|136|1" form="συνῴκησεν" lemma="συνοικέω" postag="v3saia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|136|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|136|3" form="ἀνδρί" lemma="ἀνήρ" postag="n-s---md-" relation="OBJ" head="1"/>
@@ -4310,7 +4310,7 @@
       <word id="7" ref="Leuven|0014-047|136|7" form="ἐλευθέρα" lemma="ἐλεύθερος" postag="a-s---fn-" relation="AtvV" head="6"/>
       <word id="8" ref="Leuven|0014-047|136|8" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="136" document_id="0014-047" subdoc="55">
+   <sentence id="136" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="55">
       <word id="1" ref="Leuven|0014-047|137|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="16"/>
       <word id="2" ref="Leuven|0014-047|137|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|137|3" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="SBJ" head="4"/>
@@ -4331,7 +4331,7 @@
       <word id="18" ref="Leuven|0014-047|137|18" form="ἐμέ" lemma="ἐγώ" postag="p1s---ma-" relation="OBJ" head="17"/>
       <word id="19" ref="Leuven|0014-047|137|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="137" document_id="0014-047" subdoc="56">
+   <sentence id="137" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="56">
       <word id="1" ref="Leuven|0014-047|138|1" form="ἀναγκαῖον" lemma="ἀναγκαῖος" postag="a-s---nn-" relation="PNOM" head="3"/>
       <word id="2" ref="Leuven|0014-047|138|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|138|3" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
@@ -4348,7 +4348,7 @@
       <word id="14" ref="Leuven|0014-047|138|12" form="παιδαγωγόν" lemma="παιδαγωγός" postag="n-s---ma-" relation="SBJ_CO" head="13"/>
       <word id="15" ref="Leuven|0014-047|138|13" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="138" document_id="0014-047" subdoc="56">
+   <sentence id="138" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="56">
       <word id="1" ref="Leuven|0014-047|139|1" form="ἅμα" lemma="ἅμα" postag="d--------" relation="ADV" head="5"/>
       <word id="2" ref="Leuven|0014-047|139|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|139|3" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="4"/>
@@ -4369,7 +4369,7 @@
       <word id="18" ref="Leuven|0014-047|139|18" form="καταλιπεῖν" lemma="καταλείπω" postag="v--ana---" relation="SBJ" head="12"/>
       <word id="19" ref="Leuven|0014-047|139|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="139" document_id="0014-047" subdoc="56">
+   <sentence id="139" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="56">
       <word id="1" ref="Leuven|0014-047|140|1" form="ἀριστώντων" lemma="ἀριστάω" postag="v-pppamg-" relation="ADV" head="47"/>
       <word id="2" ref="Leuven|0014-047|140|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="47"/>
       <word id="3" ref="Leuven|0014-047|140|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="1"/>
@@ -4459,7 +4459,7 @@
       <word id="87" ref="Leuven|0014-047|140|87" form="κατεδικάσασθε" lemma="καταδικάζω" postag="v2paim---" relation="ADV" head="86"/>
       <word id="88" ref="Leuven|0014-047|140|88" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="140" document_id="0014-047" subdoc="57">
+   <sentence id="140" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="57">
       <word id="1" ref="Leuven|0014-047|141|1" form="ἀπήγγειλε" lemma="ἀπαγγέλλω" postag="v3saia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|141|2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|141|3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="1"/>
@@ -4471,7 +4471,7 @@
       <word id="9" ref="Leuven|0014-047|141|9" form="θύραν" lemma="θύρα" postag="n-s---fa-" relation="OBJ" head="7"/>
       <word id="10" ref="Leuven|0014-047|141|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="141" document_id="0014-047" subdoc="57">
+   <sentence id="141" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="57">
       <word id="1" ref="Leuven|0014-047|142|1" form="ἔτι" lemma="ἔτι" postag="d--------" relation="ADV" head="3"/>
       <word id="2" ref="Leuven|0014-047|142|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|142|3" form="ἔφη" lemma="φημί" postag="v3siia---" relation="PRED" head="0"/>
@@ -4485,13 +4485,13 @@
       <word id="11" ref="Leuven|0014-047|142|11" form="τραπέζῃ" lemma="τράπεζα" postag="n-s---fd-" relation="ADV" head="9"/>
       <word id="12" ref="Leuven|0014-047|142|12" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="142" document_id="0014-047" subdoc="57">
+   <sentence id="142" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="57">
       <word id="1" ref="Leuven|0014-047|143|1" form="ἠκηκόει" lemma="ἀκούω" postag="v3slia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|143|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|143|3" form="ἐμοῦ" lemma="ἐγώ" postag="p1s---mg-" relation="OBJ" head="1"/>
       <word id="4" ref="Leuven|0014-047|143|4" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="143" document_id="0014-047" subdoc="57">
+   <sentence id="143" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="57">
       <word id="1" ref="Leuven|0014-047|144|1" form="κ-" lemma="καί" postag="d--------" relation="AuxY" head="14"/>
       <word id="2" ref="Leuven|0014-047|144|1" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="14"/>
       <word id="3" ref="Leuven|0014-047|144|2" form="περιμείνητε" lemma="περιμένω" postag="v2pasa---" relation="ADV_CO" head="7"/>
@@ -4511,7 +4511,7 @@
       <word id="17" ref="Leuven|0014-047|144|16" form="ἤδη" lemma="ἤδη" postag="d--------" relation="ADV" head="14"/>
       <word id="18" ref="Leuven|0014-047|144|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="144" document_id="0014-047" subdoc="57">
+   <sentence id="144" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="57">
       <word id="1" ref="Leuven|0014-047|145|1" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|145|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" ref="Leuven|0014-047|145|3" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="4"/>
@@ -4532,7 +4532,7 @@
       <word id="18" ref="Leuven|0014-047|145|18" form="καταδίκης" lemma="καταδίκη" postag="n-s---fg-" relation="ADV" head="16"/>
       <word id="19" ref="Leuven|0014-047|145|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="145" document_id="0014-047" subdoc="58">
+   <sentence id="145" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="58">
       <word id="1" ref="Leuven|0014-047|146|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="3"/>
       <word id="2" ref="Leuven|0014-047|146|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-047|146|3" form="λεγούσης" lemma="λέγω3" postag="v-sppafg-" relation="ADV_CO" head="10"/>
@@ -4625,7 +4625,7 @@
       <word id="90" ref="Leuven|0014-047|146|90" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="91" insertion_id="0090f" artificial="elliptic" relation="ADV_CO" lemma="εἰμί" postag="v3siia---" form="ἦν" head="87"/>
    </sentence>
-   <sentence id="146" document_id="0014-047" subdoc="59">
+   <sentence id="146" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="59">
       <word id="1" ref="Leuven|0014-047|147|1" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4"/>
       <word id="2" ref="Leuven|0014-047|147|2" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="1"/>
       <word id="3" ref="Leuven|0014-047|147|3" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="4"/>
@@ -4651,7 +4651,7 @@
       <word id="23" ref="Leuven|0014-047|147|23" form="γραῦν" lemma="γραῦς" postag="n-s---fa-" relation="OBJ" head="21"/>
       <word id="24" ref="Leuven|0014-047|147|24" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="147" document_id="0014-047" subdoc="60">
+   <sentence id="147" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="60">
       <word id="1" ref="Leuven|0014-047|148|1" form="ἀκούοντες" lemma="ἀκούω" postag="v-pppamn-" relation="ADV_CO" head="9"/>
       <word id="2" ref="Leuven|0014-047|148|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="29"/>
       <word id="3" ref="Leuven|0014-047|148|3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="4"/>
@@ -4695,7 +4695,7 @@
       <word id="41" ref="Leuven|0014-047|148|41" form="παραγενέσθαι" lemma="παραγίγνομαι" postag="v--anm---" relation="OBJ" head="40"/>
       <word id="42" ref="Leuven|0014-047|148|42" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="148" document_id="0014-047" subdoc="60">
+   <sentence id="148" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="60">
       <word id="1" ref="Leuven|0014-047|149|1" form="προσελθὼν" lemma="προσέρχομαι" postag="v-sapamn-" relation="ADV" head="37"/>
       <word id="2" ref="Leuven|0014-047|149|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="37"/>
       <word id="3" ref="Leuven|0014-047|149|3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
@@ -4754,7 +4754,7 @@
       <word id="56" ref="Leuven|0014-047|149|56" form="οἰκίας" lemma="οἰκία" postag="n-s---fg-" relation="OBJ" head="53"/>
       <word id="57" ref="Leuven|0014-047|149|57" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="149" document_id="0014-047" subdoc="61">
+   <sentence id="149" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="61">
       <word id="1" ref="Leuven|0014-047|150|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2"/>
       <word id="2" ref="Leuven|0014-047|150|2" form="μόνον" lemma="μόνον" postag="d--------" relation="AuxZ" head="13"/>
       <word id="3" ref="Leuven|0014-047|150|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="13"/>
@@ -4791,7 +4791,7 @@
       <word id="34" ref="Leuven|0014-047|150|34" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="35" insertion_id="0034e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppama-" form="ὄντα" head="19"/>
    </sentence>
-   <sentence id="150" document_id="0014-047" subdoc="61">
+   <sentence id="150" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="61">
       <word id="1" ref="Leuven|0014-047|151|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|151|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|151|3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
@@ -4804,7 +4804,7 @@
       <word id="10" ref="Leuven|0014-047|151|10" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="7"/>
       <word id="11" ref="Leuven|0014-047|151|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="151" document_id="0014-047" subdoc="62">
+   <sentence id="151" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="62">
       <word id="1" ref="Leuven|0014-047|152|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="22"/>
       <word id="2" ref="Leuven|0014-047|152|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="22"/>
       <word id="3" ref="Leuven|0014-047|152|3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="4"/>
@@ -4884,7 +4884,7 @@
       <word id="77" ref="Leuven|0014-047|152|77" form="βούλοιντο" lemma="βούλομαι" postag="v3ppoe---" relation="ATR" head="73"/>
       <word id="78" ref="Leuven|0014-047|152|78" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="152" document_id="0014-047" subdoc="63">
+   <sentence id="152" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="63">
       <word id="1" ref="Leuven|0014-047|153|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="4"/>
       <word id="2" ref="Leuven|0014-047|153|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="73"/>
       <word id="3" ref="Leuven|0014-047|153|3" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="5"/>
@@ -4984,7 +4984,7 @@
       <word id="97" ref="Leuven|0014-047|153|97" form="σκεύη" lemma="σκεῦος" postag="n-p---na-" relation="OBJ" head="95"/>
       <word id="98" ref="Leuven|0014-047|153|98" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="153" document_id="0014-047" subdoc="63">
+   <sentence id="153" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="63">
       <word id="1" ref="Leuven|0014-047|154|1" form="ᾧ" lemma="ὅς" postag="p-s---md-" relation="OBJ" head="5"/>
       <word id="2" ref="Leuven|0014-047|14|24" form="οὔ" lemma="οὔ" postag="d--------" relation="AuxZ" head="5"/>
       <word id="3" ref="Leuven|0014-047|14|24" form="-τε" lemma="τε" postag="d--------" relation="AuxY" head="8"/>
@@ -5001,7 +5001,7 @@
       <word id="14" ref="Leuven|0014-047|154|12" form="οὐδέν" lemma="οὐδείς" postag="a-s---na_" relation="AuxZ" head="10"/>
       <word id="15" ref="Leuven|0014-047|154|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="154" document_id="0014-047" subdoc="64">
+   <sentence id="154" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="64">
       <word id="1" ref="Leuven|0014-047|155|1" form="ἐκτίνοντος" lemma="ἐκτίνω" postag="v-sppamg-" relation="ADV" head="85"/>
       <word id="2" ref="Leuven|0014-047|155|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="85"/>
       <word id="3" ref="Leuven|0014-047|155|3" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="1"/>
@@ -5114,7 +5114,7 @@
       <word id="110" insertion_id="0105i" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καὶ" head="52"/>
       <word id="111" insertion_id="0105k" artificial="elliptic" relation="ADV_CO" lemma="ἀφίημι" postag="v3sfia---" form="ἀφήσει" head="100"/>
    </sentence>
-   <sentence id="155" document_id="0014-047" subdoc="65">
+   <sentence id="155" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="65">
       <word id="1" ref="Leuven|0014-047|156|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="3"/>
       <word id="2" ref="Leuven|0014-047|156|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|156|3" form="ἀποκριναμένου" lemma="ἀποκρίνω" postag="v-sapmmg-" relation="ADV" head="7"/>
@@ -5133,7 +5133,7 @@
       <word id="16" ref="Leuven|0014-047|156|16" form="ἐξέτεισα" lemma="ἐκτίνω" postag="v1saia---" relation="PRED_CO" head="14"/>
       <word id="17" ref="Leuven|0014-047|156|25" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="156" document_id="0014-047" subdoc="65">
+   <sentence id="156" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="65">
       <word id="1" ref="Leuven|0014-047|156|18" form="ὑπερήμερον" lemma="ὑπερήμερος" postag="a-s---na-" relation="PNOM" head="7"/>
       <word id="2" ref="Leuven|0014-047|156|19" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" ref="Leuven|0014-047|156|20" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"/>
@@ -5143,12 +5143,12 @@
       <word id="7" ref="Leuven|0014-047|156|24" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="SBJ" head="5"/>
       <word id="8" ref="Leuven|0014-047|156|25" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="157" document_id="0014-047" subdoc="65">
+   <sentence id="157" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="65">
       <word id="1" ref="Leuven|0014-047|157|1" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|157|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|157|3" form="Εὔεργον" lemma="Εὔεργος" postag="n-s---ma-" relation="SBJ" head="7"/>
-      <word id="4" ref="Leuven|0014-047|39|15" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxΖ" head="21"/>
-      <word id="5" ref="Leuven|0014-047|39|15" form="-δ’" lemma="δέ" postag="d--------" relation="AuxY" head="21"/>
+      <word id="4" ref="Leuven|0014-047|39|15" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxΖ" head="7"/>
+      <word id="5" ref="Leuven|0014-047|39|15" form="-δ’" lemma="δέ" postag="d--------" relation="AuxZ" head="4"/>
       <word id="6" ref="Leuven|0014-047|157|5" form="ᾔδειν" lemma="οἶδα" postag="v1slia---" relation="PRED_CO" head="16"/>
       <word id="7" ref="Leuven|0014-047|157|6" form="εἰσεληλυθότα" lemma="εἰσέρχομαι" postag="v-srpama-" relation="OBJ" head="6"/>
       <word id="8" ref="Leuven|0014-047|157|7" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="OBJ" head="11"/>
@@ -5183,15 +5183,15 @@
       <word id="37" ref="Leuven|0014-047|157|36" form="προτεραίᾳ" lemma="προτεραῖος" postag="a-s---fd-" relation="ADV" head="38"/>
       <word id="38" ref="Leuven|0014-047|157|37" form="περιγενόμενα" lemma="περιγίγνομαι" postag="v-papmnn-" relation="ATR" head="34"/>
       <word id="39" ref="Leuven|0014-047|157|38" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
-      <word id="40" ref="Leuven|0014-047|157|39" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="40" ref="Leuven|0014-047|157|39" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="16"/>
       <word id="41" ref="Leuven|0014-047|157|40" form="ἄγγελος" lemma="ἄγγελος" postag="n-s---mn-" relation="ATV" head="44"/>
       <word id="42" ref="Leuven|0014-047|157|41" form="ἦλθέ" lemma="ἔρχομαι" postag="v3saia---" relation="PRED_CO" head="40"/>
       <word id="43" ref="Leuven|0014-047|157|42" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="ADV" head="42"/>
       <word id="44" ref="Leuven|0014-047|157|43" form="λιθοκόπος" lemma="λιθοκόπος" postag="n-s---mn-" relation="SBJ" head="42"/>
-      <word id="45" ref="Leuven|0014-047|157|44" form="τις" lemma="τις" postag="a-s----n-" relation="ATR" head="44"/>
+      <word id="45" ref="Leuven|0014-047|157|44" form="τις" lemma="τις" postag="a-s---mn_" relation="ATR" head="44"/>
       <word id="46" ref="Leuven|0014-047|157|45" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="47" ref="Leuven|0014-047|157|46" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="49"/>
-      <word id="48" ref="Leuven|0014-047|157|47" form="πλησίον" lemma="πλησίος" postag="a-s---na-" relation="ATR" head="49"/>
+      <word id="48" ref="Leuven|0014-047|157|47" form="πλησίον" lemma="πλησίος" postag="d--------" relation="ADV" head="50"/>
       <word id="49" ref="Leuven|0014-047|157|48" form="μνῆμα" lemma="μνῆμα" postag="n-s---na-" relation="OBJ" head="50"/>
       <word id="50" ref="Leuven|0014-047|157|49" form="ἐργαζόμενος" lemma="ἐργάζομαι" postag="v-sppemn-" relation="ADV" head="42"/>
       <word id="51" ref="Leuven|0014-047|157|50" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -5208,7 +5208,7 @@
       <word id="62" ref="Leuven|0014-047|157|61" form="οἰκίας" lemma="οἰκία" postag="n-s---fg-" relation="OBJ" head="60"/>
       <word id="63" ref="Leuven|0014-047|157|62" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="158" document_id="0014-047" subdoc="65">
+   <sentence id="158" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="65">
       <word id="1" ref="Leuven|0014-047|158|1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6"/>
       <word id="2" ref="Leuven|0014-047|158|2" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="ADV" head="1"/>
       <word id="3" ref="Leuven|0014-047|158|3" form="οὐδέν" lemma="οὐδείς" postag="a-s---nn_" relation="ATR" head="5"/>
@@ -5217,7 +5217,7 @@
       <word id="6" ref="Leuven|0014-047|158|6" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
       <word id="7" ref="Leuven|0014-047|158|7" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="159" document_id="0014-047" subdoc="66">
+   <sentence id="159" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="66">
       <word id="1" ref="Leuven|0014-047|159|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="53"/>
       <word id="2" ref="Leuven|0014-047|159|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="40"/>
       <word id="3" ref="Leuven|0014-047|159|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ_AP" head="5"/>
@@ -5240,7 +5240,7 @@
       <word id="20" ref="Leuven|0014-047|159|20" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="21"/>
       <word id="21" ref="Leuven|0014-047|159|21" form="ἀργύριον" lemma="ἀργύριον" postag="n-s---na-" relation="OBJ" head="19"/>
       <word id="22" ref="Leuven|0014-047|159|22" form="παρ’" lemma="παρά" postag="r--------" relation="AuxP" head="19"/>
-      <word id="23" ref="Leuven|0014-047|159|23" form="ἐμοῦ" lemma="ἐγώ" postag="p-s----g-" relation="ADV" head="22"/>
+      <word id="23" ref="Leuven|0014-047|159|23" form="ἐμοῦ" lemma="ἐγώ" postag="p-s---mg-" relation="ADV" head="22"/>
       <word id="24" ref="Leuven|0014-047|159|24" form="(" lemma="̔" postag="u--------" relation="AuxG" head="0"/>
       <word id="25" ref="Leuven|0014-047|159|25" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="40"/>
       <word id="26" ref="Leuven|0014-047|159|26" form="πῶς" lemma="πῶς" postag="d--------" relation="ADV" head="40"/>
@@ -5278,7 +5278,7 @@
       <word id="58" ref="Leuven|0014-047|160|17" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="56"/>
       <word id="59" ref="Leuven|0014-047|160|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="160" document_id="0014-047" subdoc="67">
+   <sentence id="160" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="67">
       <word id="1" ref="Leuven|0014-047|161|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="36"/>
       <word id="2" ref="Leuven|0014-047|161|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="36"/>
       <word id="3" ref="Leuven|0014-047|161|3" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
@@ -5287,7 +5287,7 @@
       <word id="6" ref="Leuven|0014-047|161|6" form="δικασταί" lemma="δικαστής" postag="n-p---mv-" relation="ATR" head="5"/>
       <word id="7" ref="Leuven|0014-047|161|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="8" ref="Leuven|0014-047|161|8" form="ἐπαγγείλαντός" lemma="ἐπαγγέλλω" postag="v-sapamg-" relation="ADV" head="20"/>
-      <word id="9" ref="Leuven|0014-047|161|9" form="μου" lemma="ἐγώ" postag="p-s----g-" relation="SBJ" head="8"/>
+      <word id="9" ref="Leuven|0014-047|161|9" form="μου" lemma="ἐγώ" postag="p-s---mg-" relation="SBJ" head="8"/>
       <word id="10" ref="Leuven|0014-047|161|10" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="8"/>
       <word id="11" ref="Leuven|0014-047|161|11" form="θεραπεύειν" lemma="θεραπεύω" postag="v--pna---" relation="OBJ" head="8"/>
       <word id="12" ref="Leuven|0014-047|161|12" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="13"/>
@@ -5323,7 +5323,7 @@
       <word id="42" ref="Leuven|0014-047|161|42" form="μάρτυρας" lemma="μάρτυς" postag="n-p---ma-" relation="OBJ" head="41"/>
       <word id="43" ref="Leuven|0014-047|161|43" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="161" document_id="0014-047" subdoc="67">
+   <sentence id="161" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="67">
       <word id="1" ref="Leuven|0014-047|162|1" form="ἀκούσας" lemma="ἀκούω" postag="v-sapamn-" relation="ADV" head="23"/>
       <word id="2" ref="Leuven|0014-047|162|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="23"/>
       <word id="3" ref="Leuven|0014-047|162|3" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="4"/>
@@ -5353,7 +5353,7 @@
       <word id="27" ref="Leuven|0014-047|162|27" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="28" insertion_id="0027e" artificial="elliptic" relation="APOS" lemma="," postag="u--------" form="," head="19"/>
    </sentence>
-   <sentence id="162" document_id="0014-047" subdoc="67">
+   <sentence id="162" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="67">
       <word id="1" ref="Leuven|0014-047|163|1" form="ἕκτῃ" lemma="ἕκτος" postag="a-s---fd-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|163|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" ref="Leuven|0014-047|163|3" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="ADV" head="4"/>
@@ -5370,7 +5370,7 @@
       <word id="14" ref="Leuven|0014-047|163|14" form="τιτθή" lemma="τιτθή" postag="n-s---fn-" relation="SBJ" head="12"/>
       <word id="15" ref="Leuven|0014-047|163|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="163" document_id="0014-047" subdoc="67">
+   <sentence id="163" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="67">
       <word id="1" ref="Leuven|0014-047|164|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="6"/>
       <word id="2" ref="Leuven|0014-047|164|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|164|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="4"/>
@@ -5384,7 +5384,7 @@
       <word id="11" ref="Leuven|0014-047|164|11" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="9"/>
       <word id="12" ref="Leuven|0014-047|164|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="164" document_id="0014-047" subdoc="68">
+   <sentence id="164" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="68">
       <word id="1" ref="Leuven|0014-047|165|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="5"/>
       <word id="2" ref="Leuven|0014-047|165|2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|165|3" form="ἐτελεύτησεν" lemma="τελευτάω" postag="v3saia---" relation="ADV" head="1"/>
@@ -5442,7 +5442,7 @@
       <word id="55" ref="Leuven|0014-047|165|55" form="τελευτήσειεν" lemma="τελευτάω" postag="v3saoa---" relation="OBJ_AP_CO" head="47"/>
       <word id="56" ref="Leuven|0014-047|165|56" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="165" document_id="0014-047" subdoc="68">
+   <sentence id="165" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="68">
       <word id="1" ref="Leuven|0014-047|166|1" form="ἀκούσαντες" lemma="ἀκούω" postag="v-papamn-" relation="ADV" head="8"/>
       <word id="2" ref="Leuven|0014-047|166|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|166|3" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="OBJ" head="1"/>
@@ -5461,7 +5461,7 @@
       <word id="16" ref="Leuven|0014-047|166|16" form="συμβουλεύσωσιν" lemma="συμβουλεύω" postag="v3pasa---" relation="OBJ_CO" head="14"/>
       <word id="17" ref="Leuven|0014-047|166|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="166" document_id="0014-047" subdoc="69">
+   <sentence id="166" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="69">
       <word id="1" ref="Leuven|0014-047|167|1" form="ἀποκριναμένου" lemma="ἀποκρίνω" postag="v-sapmmg-" relation="ADV" head="7"/>
       <word id="2" ref="Leuven|0014-047|167|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" ref="Leuven|0014-047|167|3" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="SBJ" head="1"/>
@@ -5484,7 +5484,7 @@
       <word id="20" ref="Leuven|0014-047|167|20" form="παραινέσομεν" lemma="παραινέω" postag="v1pfia---" relation="OBJ_CO" head="18"/>
       <word id="21" ref="Leuven|0014-047|167|21" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="167" document_id="0014-047" subdoc="69">
+   <sentence id="167" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="69">
       <word id="1" ref="Leuven|0014-047|168|1" form="πρῶτον" lemma="πρῶτος" postag="a-s---na-" relation="AuxZ" head="22"/>
       <word id="2" ref="Leuven|0014-047|168|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="22"/>
       <word id="3" ref="Leuven|0014-047|168|3" form="ἐπενεγκεῖν" lemma="ἐπιφέρω" postag="v--ana---" relation="OBJ_CO" head="9"/>
@@ -5516,7 +5516,7 @@
       <word id="29" ref="Leuven|0014-047|168|29" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="30" insertion_id="0029f" artificial="elliptic" relation="PRED" lemma="εἶπον" postag="v3paia---" form="εἶπόν" head="0"/>
    </sentence>
-   <sentence id="168" document_id="0014-047" subdoc="69">
+   <sentence id="168" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="69">
       <word id="1" ref="Leuven|0014-047|169|1" form="τάδε" lemma="ὅδε" postag="p-p---na-" relation="OBJ_AP" head="25"/>
       <word id="2" ref="Leuven|0014-047|169|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|169|3" form="συμβουλεύομέν" lemma="συμβουλεύω" postag="v1ppia---" relation="PRED" head="0"/>
@@ -5563,7 +5563,7 @@
       <word id="44" insertion_id="0043e" artificial="elliptic" relation="ADV_CO" lemma="παραγίγνομαι" postag="v3paim---" form="παρεγένοντο" head="20"/>
       <word id="45" insertion_id="0043f" artificial="elliptic" relation="OBJ_AP_CO" lemma="προαγορεύω" postag="v--pna---" form="προαγορεύειν" head="33"/>
    </sentence>
-   <sentence id="169" document_id="0014-047" subdoc="70">
+   <sentence id="169" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="70">
       <word id="1" ref="Leuven|0014-047|14|047" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="7"/>
       <word id="2" ref="Leuven|0014-047|14|047" form="-δὲ" lemma="-δέ" postag="d--------" relation="AuxZ" head="1"/>
       <word id="3" ref="Leuven|0014-047|170|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="7"/>
@@ -5574,7 +5574,7 @@
       <word id="8" ref="Leuven|0014-047|170|7" form="σοι" lemma="σοι" postag="p-s---md-" relation="ADV" head="7"/>
       <word id="9" ref="Leuven|0014-047|170|8" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="170" document_id="0014-047" subdoc="70">
+   <sentence id="170" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="70">
       <word id="1" ref="Leuven|0014-047|171|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5"/>
       <word id="2" ref="Leuven|0014-047|171|2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|171|3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
@@ -5594,7 +5594,7 @@
       <word id="17" ref="Leuven|0014-047|171|16" form="λέγεις" lemma="λέγω" postag="v2spia---" relation="ATR" head="3"/>
       <word id="18" ref="Leuven|0014-047|171|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="171" document_id="0014-047" subdoc="70">
+   <sentence id="171" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="70">
       <word id="1" ref="Leuven|0014-047|172|1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3"/>
       <word id="2" ref="Leuven|0014-047|172|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|172|3" form="νόμοι" lemma="νόμος" postag="n-p---mn-" relation="SBJ" head="5"/>
@@ -5605,7 +5605,7 @@
       <word id="8" ref="Leuven|0014-047|172|8" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="5"/>
       <word id="9" ref="Leuven|0014-047|172|9" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="172" document_id="0014-047" subdoc="70">
+   <sentence id="172" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="70">
       <word id="1" ref="Leuven|0014-047|173|1" form="ὥστ’" lemma="ὥστε" postag="d-------_" relation="AuxY" head="35"/>
       <word id="2" ref="Leuven|0014-047|173|2" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="35"/>
       <word id="3" ref="Leuven|0014-047|173|3" form="διομεῖ" lemma="διόμνυμι" postag="v2sfim---" relation="ADV_CO" head="13"/>
@@ -5646,7 +5646,7 @@
       <word id="38" ref="Leuven|0014-047|173|38" form="φθονήσει" lemma="φθονέω" postag="v3sfia---" relation="PRED_CO" head="35"/>
       <word id="39" ref="Leuven|0014-047|173|39" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="173" document_id="0014-047" subdoc="70">
+   <sentence id="173" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="70">
       <word id="1" ref="Leuven|0014-047|174|1" form="ἀλλ’" lemma="ἀλλά" postag="d-------_" relation="AuxY" head="15"/>
       <word id="2" ref="Leuven|0014-047|174|2" form="ὑπὲρ" lemma="ὑπέρ" postag="r--------" relation="AuxP" head="7"/>
       <word id="3" ref="Leuven|0014-047|174|3" form="σεαυτοῦ" lemma="σεαυτοῦ" postag="p-s---mg-" relation="ADV_CO" head="4"/>
@@ -5669,7 +5669,7 @@
       <word id="20" ref="Leuven|0014-047|174|20" form="τιμωροῦ" lemma="τιμωρέω" postag="v2spme---" relation="PRED_CO" head="15"/>
       <word id="21" ref="Leuven|0014-047|174|21" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="174" document_id="0014-047" subdoc="71">
+   <sentence id="174" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="71">
       <word id="1" ref="Leuven|0014-047|175|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="2"/>
       <word id="2" ref="Leuven|0014-047|175|2" form="ἀκούσας" lemma="ἀκούω" postag="v-sapamn-" relation="ADV_CO" head="7"/>
       <word id="3" ref="Leuven|0014-047|175|3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="18"/>
@@ -5698,7 +5698,7 @@
       <word id="26" ref="Leuven|0014-047|175|26" form="ποιεῖν" lemma="ποιέω" postag="v--pna---" relation="SBJ" head="24"/>
       <word id="27" ref="Leuven|0014-047|175|27" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="175" document_id="0014-047" subdoc="71">
+   <sentence id="175" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="71">
       <word id="1" ref="Leuven|0014-047|176|1" form="συμβουλευόντων" lemma="συμβουλεύω" postag="v3ppma---" relation="ADV" head="25"/>
       <word id="2" ref="Leuven|0014-047|176|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="25"/>
       <word id="3" ref="Leuven|0014-047|176|3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1"/>
@@ -5735,7 +5735,7 @@
       <word id="34" ref="Leuven|0014-047|176|34" form="εἶχον" lemma="ἔχω" postag="v1siia---" relation="PRED_CO" head="25"/>
       <word id="35" ref="Leuven|0014-047|176|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="176" document_id="0014-047" subdoc="72">
+   <sentence id="176" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="72">
       <word id="1" ref="Leuven|0014-047|177|1" form="κελεύει" lemma="κελεύω" postag="v3spia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|177|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|177|3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
@@ -5773,7 +5773,7 @@
       <word id="35" ref="Leuven|0014-047|177|34" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ_CO" head="27"/>
       <word id="36" ref="Leuven|0014-047|177|35" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="177" document_id="0014-047" subdoc="72">
+   <sentence id="177" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="72">
       <word id="1" ref="Leuven|0014-047|178|1" form="ἐμοὶ" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="6"/>
       <word id="2" ref="Leuven|0014-047|178|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="18"/>
       <word id="3" ref="Leuven|0014-047|14|24" form="οὔ" lemma="οὔ" postag="d--------" relation="AuxZ" head="5"/>
@@ -5799,7 +5799,7 @@
       <word id="23" insertion_id="0022g" artificial="elliptic" relation="PRED_CO" lemma="εἰμί" postag="v3siia---" form="ἦν" head="18"/>
       <word id="24" insertion_id="0022h" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v3siia---" form="ἦν" head="11"/>
    </sentence>
-   <sentence id="178" document_id="0014-047" subdoc="72">
+   <sentence id="178" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="72">
       <word id="1" ref="Leuven|0014-047|179|1" form="ἀφεῖτο" lemma="ἀφίημι" postag="v3saim---" relation="PRED_CO" head="12"/>
       <word id="2" ref="Leuven|0014-047|179|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12"/>
       <word id="3" ref="Leuven|0014-047|179|3" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="1"/>
@@ -5816,7 +5816,7 @@
       <word id="14" ref="Leuven|0014-047|179|14" form="ἔσχεν" lemma="ἔχω" postag="v3saia---" relation="PRED_CO" head="12"/>
       <word id="15" ref="Leuven|0014-047|179|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="179" document_id="0014-047" subdoc="73">
+   <sentence id="179" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="73">
       <word id="1" ref="Leuven|0014-047|180|1" form="ψεύσασθαι" lemma="ψεύδω" postag="v--anm---" relation="OBJ_CO" head="5"/>
       <word id="2" ref="Leuven|0014-047|180|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="16"/>
       <word id="3" ref="Leuven|0014-047|180|3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="1"/>
@@ -5845,7 +5845,7 @@
       <word id="26" ref="Leuven|0014-047|180|25" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="25"/>
       <word id="27" ref="Leuven|0014-047|180|26" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="180" document_id="0014-047" subdoc="73">
+   <sentence id="180" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="73">
       <word id="1" ref="Leuven|0014-047|181|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5"/>
       <word id="2" ref="Leuven|0014-047|181|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5"/>
       <word id="3" ref="Leuven|0014-047|181|3" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="5"/>
@@ -5857,7 +5857,7 @@
       <word id="9" ref="Leuven|0014-047|181|9" form="φιλῶ" lemma="φιλέω" postag="v1spia---" relation="ADV" head="7"/>
       <word id="10" ref="Leuven|0014-047|181|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="181" document_id="0014-047" subdoc="73">
+   <sentence id="181" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="73">
       <word id="1" ref="Leuven|0014-047|182|1" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="13"/>
       <word id="2" ref="Leuven|0014-047|182|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|182|3" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="5"/>
@@ -5873,7 +5873,7 @@
       <word id="13" ref="Leuven|0014-047|182|13" form="ἀναγνώσομαι" lemma="ἀναγιγνώσκω" postag="v1sfim---" relation="PRED" head="0"/>
       <word id="14" ref="Leuven|0014-047|182|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="182" document_id="0014-047" subdoc="74">
+   <sentence id="182" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="74">
       <word id="1" ref="Leuven|0014-047|183|1" form="πολλαχόθεν" lemma="πολλαχόθεν" postag="d--------" relation="ADV" head="14"/>
       <word id="2" ref="Leuven|0014-047|183|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="4"/>
       <word id="3" ref="Leuven|0014-047|183|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="4"/>
@@ -5903,7 +5903,7 @@
       <word id="27" ref="Leuven|0014-047|183|27" form="γνῶναι" lemma="γιγνώσκω" postag="v--ana---" relation="OBJ_CO" head="21"/>
       <word id="28" ref="Leuven|0014-047|183|28" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="183" document_id="0014-047" subdoc="74">
+   <sentence id="183" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="74">
       <word id="1" ref="Leuven|0014-047|184|1" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="3"/>
       <word id="2" ref="Leuven|0014-047|184|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
       <word id="3" ref="Leuven|0014-047|184|3" form="ᾤοντο" lemma="οἴομαι" postag="v3piie---" relation="PRED" head="0"/>
@@ -5935,7 +5935,7 @@
       <word id="29" ref="Leuven|0014-047|184|29" form="ἐνέχυρα" lemma="ἐνέχυρον" postag="n-p---na-" relation="OBJ" head="26"/>
       <word id="30" ref="Leuven|0014-047|184|30" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="184" document_id="0014-047" subdoc="75">
+   <sentence id="184" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="75">
       <word id="1" ref="Leuven|0014-047|185|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="11"/>
       <word id="2" ref="Leuven|0014-047|185|2" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="11"/>
       <word id="3" ref="Leuven|0014-047|185|3" form="ἐδεήθην" lemma="δέω2" postag="v1saip---" relation="ADV" head="2"/>
@@ -5950,7 +5950,7 @@
       <word id="12" ref="Leuven|0014-047|185|12" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="13" ref="Leuven|0014-047|185|13" form="ἵνα" lemma="ἵνα" postag="c--------" relation="AuxC" head="11"/>
       <word id="14" ref="Leuven|0014-047|185|14" form="ὑπερήμερος" lemma="ὑπερήμερος" postag="a-s---mn-" relation="PNOM" head="16"/>
-      <word id="15" ref="Leuven|0014-047|185|15" form="αὐτῷ" lemma="αὐτός" postag="p-s----d-" relation="ADV" head="14"/>
+      <word id="15" ref="Leuven|0014-047|185|15" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="ADV" head="14"/>
       <word id="16" ref="Leuven|0014-047|185|16" form="γενοίμην" lemma="γίγνομαι" postag="v1saom---" relation="ADV_CO" head="17"/>
       <word id="17" ref="Leuven|0014-047|185|17" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="13"/>
       <word id="18" ref="Leuven|0014-047|185|18" form="ἐκφορήσαιτό" lemma="ἐκφορέω" postag="v3saom---" relation="ADV_CO" head="17"/>
@@ -5959,7 +5959,7 @@
       <word id="21" ref="Leuven|0014-047|185|21" form="πλεῖστα" lemma="πολύς" postag="a-p---nas" relation="ADV" head="18"/>
       <word id="22" ref="Leuven|0014-047|185|22" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="185" document_id="0014-047" subdoc="75">
+   <sentence id="185" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="75">
       <word id="1" ref="Leuven|0014-047|186|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
       <word id="2" ref="Leuven|0014-047|186|2" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="8"/>
       <word id="3" ref="Leuven|0014-047|186|3" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="ADV" head="2"/>
@@ -6004,7 +6004,7 @@
       <word id="42" ref="Leuven|0014-047|186|42" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
       <word id="43" ref="Leuven|0014-047|186|43" form="[0]" lemma="[0]" postag="v_____---" relation="ADV" artificial="elliptic" insertion_id="0042e" head="30"/>
    </sentence>
-   <sentence id="186" document_id="0014-047" subdoc="75">
+   <sentence id="186" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="75">
       <word id="1" ref="Leuven|0014-047|187|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"/>
       <word id="2" ref="Leuven|0014-047|187|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6"/>
       <word id="3" ref="Leuven|0014-047|187|3" form="ὅσα" lemma="ὅσος" postag="a-p---na-" relation="OBJ" head="4"/>
@@ -6018,7 +6018,7 @@
       <word id="11" ref="Leuven|0014-047|187|11" form="πλείω" lemma="πολύς" postag="a-p---nac" relation="OBJ_CO" head="9"/>
       <word id="12" ref="Leuven|0014-047|187|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="187" document_id="0014-047" subdoc="76">
+   <sentence id="187" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="76">
       <word id="1" ref="Leuven|0014-047|188|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="6"/>
       <word id="2" ref="Leuven|0014-047|188|2" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="5"/>
       <word id="3" ref="Leuven|0014-047|188|3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="6"/>
@@ -6048,7 +6048,7 @@
       <word id="27" ref="Leuven|0014-047|188|27" form="ποιήσασθαι" lemma="ποιέω" postag="v--anm---" relation="OBJ" head="17"/>
       <word id="28" ref="Leuven|0014-047|188|28" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="188" document_id="0014-047" subdoc="76">
+   <sentence id="188" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="76">
       <word id="1" ref="Leuven|0014-047|189|1" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="20"/>
       <word id="2" ref="Leuven|0014-047|189|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="20"/>
       <word id="3" ref="Leuven|0014-047|189|3" form="ἐπήγγειλα" lemma="ἐπαγγέλλω" postag="v1saia---" relation="ADV" head="1"/>
@@ -6074,7 +6074,7 @@
       <word id="23" ref="Leuven|0014-047|189|23" form="ἀπολαβεῖν" lemma="ἀπολαμβάνω" postag="v--ana---" relation="ADV" head="21"/>
       <word id="24" ref="Leuven|0014-047|189|24" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="189" document_id="0014-047" subdoc="76">
+   <sentence id="189" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="76">
       <word id="1" ref="Leuven|0014-047|190|1" form="γεωργῶ" lemma="γεωργέω" postag="v1spia---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|190|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|190|3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="1"/>
@@ -6089,7 +6089,7 @@
       <word id="12" ref="Leuven|0014-047|190|12" form="ἐλθεῖν" lemma="ἔρχομαι" postag="v--ana---" relation="SBJ" head="10"/>
       <word id="13" ref="Leuven|0014-047|190|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="190" document_id="0014-047" subdoc="77">
+   <sentence id="190" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="77">
       <word id="1" ref="Leuven|0014-047|191|1" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="7"/>
       <word id="2" ref="Leuven|0014-047|191|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="9"/>
       <word id="3" ref="Leuven|0014-047|191|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="OBJ" head="4"/>
@@ -6101,7 +6101,7 @@
       <word id="9" ref="Leuven|0014-047|191|9" form="ἔστω" lemma="εἰμί" postag="v3spma---" relation="PRED" head="0"/>
       <word id="10" ref="Leuven|0014-047|191|10" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="191" document_id="0014-047" subdoc="77">
+   <sentence id="191" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="77">
       <word id="1" ref="Leuven|0014-047|192|1" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="2"/>
       <word id="2" ref="Leuven|0014-047|192|2" form="ὑστεραίᾳ" lemma="ὑστεραῖος" postag="a-s---fd-" relation="ADV" head="4"/>
       <word id="3" ref="Leuven|0014-047|192|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4"/>
@@ -6116,7 +6116,7 @@
       <word id="12" ref="Leuven|0014-047|192|12" form="ἔλαβεν" lemma="λαμβάνω" postag="v3saia---" relation="ADV" head="9"/>
       <word id="13" ref="Leuven|0014-047|192|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="192" document_id="0014-047" subdoc="77">
+   <sentence id="192" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="77">
       <word id="1" ref="Leuven|0014-047|193|1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="11"/>
       <word id="2" ref="Leuven|0014-047|193|2" form="πῶς" lemma="πῶς" postag="d--------" relation="ADV" head="11"/>
       <word id="3" ref="Leuven|0014-047|193|3" form="ἄν" lemma="ἄν" postag="d--------" relation="AuxY" head="11"/>
@@ -6141,7 +6141,7 @@
       <word id="22" insertion_id="0020f" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καὶ" head="23"/>
       <word id="23" insertion_id="0020g" artificial="elliptic" relation="ATR_CO" lemma="δραχμή" postag="n-p---fa-" form="δραχμάς" head="21"/>
    </sentence>
-   <sentence id="193" document_id="0014-047" subdoc="77">
+   <sentence id="193" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="77">
       <word id="1" ref="Leuven|0014-047|194|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
       <word id="2" ref="Leuven|0014-047|194|2" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|194|3" form="ἐνέχυρά" lemma="ἐνέχυρον" postag="n-p---na-" relation="OBJ" head="6"/>
@@ -6159,7 +6159,7 @@
       <word id="15" ref="Leuven|0014-047|194|15" form="ὄντος" lemma="εἰμί" postag="v-sppamg-" relation="ADV" head="12"/>
       <word id="16" ref="Leuven|0014-047|194|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="194" document_id="0014-047" subdoc="77">
+   <sentence id="194" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="77">
       <word id="1" ref="Leuven|0014-047|195|1" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="14"/>
       <word id="2" ref="Leuven|0014-047|195|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|195|3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
@@ -6194,7 +6194,7 @@
       <word id="32" ref="Leuven|0014-047|195|32" form="ὑπερήμερος" lemma="ὑπερήμερος" postag="a-s---mn-" relation="PNOM" head="29"/>
       <word id="33" ref="Leuven|0014-047|195|33" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="195" document_id="0014-047" subdoc="78">
+   <sentence id="195" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="78">
       <word id="1" ref="Leuven|0014-047|196|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="11"/>
       <word id="2" ref="Leuven|0014-047|196|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="11"/>
       <word id="3" ref="Leuven|0014-047|196|3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="11"/>
@@ -6209,7 +6209,7 @@
       <word id="12" ref="Leuven|0014-047|196|12" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="11"/>
       <word id="13" ref="Leuven|0014-047|196|13" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="196" document_id="0014-047" subdoc="78">
+   <sentence id="196" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="78">
       <word id="1" ref="Leuven|0014-047|197|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="10"/>
       <word id="2" ref="Leuven|0014-047|197|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
       <word id="3" ref="Leuven|0014-047|197|3" form="ἐτριηράρχουν" lemma="τριηραρχέω" postag="v1siia---" relation="OBJ_CO" head="1"/>
@@ -6228,7 +6228,7 @@
       <word id="16" ref="Leuven|0014-047|197|16" form="Ἀλκιμάχῳ" lemma="Ἀλκίμαχος" postag="n-s---md-" relation="ADV" head="15"/>
       <word id="17" ref="Leuven|0014-047|197|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="197" document_id="0014-047" subdoc="78">
+   <sentence id="197" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="78">
       <word id="1" ref="Leuven|0014-047|198|1" form="ὥστ’" lemma="ὥστε" postag="d-------_" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|198|2" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
       <word id="3" ref="Leuven|0014-047|198|3" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
@@ -6244,7 +6244,7 @@
       <word id="13" ref="Leuven|0014-047|198|13" form="ἐκτίνων" lemma="ἐκτίνω" postag="v-sppamn-" relation="ADV_CO" head="11"/>
       <word id="14" ref="Leuven|0014-047|198|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="198" document_id="0014-047" subdoc="78">
+   <sentence id="198" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="78">
       <word id="1" ref="Leuven|0014-047|199|1" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="19"/>
       <word id="2" ref="Leuven|0014-047|199|2" form="δεινὴ" lemma="δεινός" postag="a-s---fn-" relation="PNOM" head="19"/>
       <word id="3" ref="Leuven|0014-047|199|3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4"/>
@@ -6265,7 +6265,7 @@
       <word id="18" ref="Leuven|0014-047|199|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
       <word id="19" insertion_id="0018f" artificial="elliptic" relation="PNOM" lemma="εἰμί" postag="v3siia---" form="ἦν" head="0"/>
    </sentence>
-   <sentence id="199" document_id="0014-047" subdoc="78">
+   <sentence id="199" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="78">
       <word id="1" ref="Leuven|0014-047|200|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="3"/>
       <word id="2" ref="Leuven|0014-047|200|2" form="εὖ" lemma="εὖ" postag="d--------" relation="ADV" head="3"/>
       <word id="3" ref="Leuven|0014-047|200|3" form="ᾔδεσαν" lemma="οἶδα" postag="v3plia---" relation="PRED" head="0"/>
@@ -6296,7 +6296,7 @@
       <word id="28" ref="Leuven|0014-047|200|28" form="ἁλώσονται" lemma="ἁλίσκομαι" postag="v3pfim---" relation="OBJ_CO" head="17"/>
       <word id="29" ref="Leuven|0014-047|200|29" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="200" document_id="0014-047" subdoc="79">
+   <sentence id="200" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="79">
       <word id="1" ref="Leuven|0014-047|201|1" form="δέομαι" lemma="δέω2" postag="v1spie---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|201|2" form="δ’" lemma="δέ" postag="d-------_" relation="AuxY" head="1"/>
       <word id="3" ref="Leuven|0014-047|201|3" form="ὑμῶν" lemma="σύ" postag="p-p---mg-" relation="OBJ" head="1"/>
@@ -6335,7 +6335,7 @@
       <word id="36" ref="Leuven|0014-047|201|36" form="ἔδοξεν" lemma="δοκέω" postag="v3saia---" relation="ADV_CO" head="38"/>
       <word id="37" ref="Leuven|0014-047|201|37" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="36"/>
       <word id="38" ref="Leuven|0014-047|201|38" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="30"/>
-      <word id="39" ref="Leuven|0014-047|201|39" form="ἐγὼ" lemma="ἐγώ" postag="p-s----n-" relation="SBJ" head="86"/>
+      <word id="39" ref="Leuven|0014-047|201|39" form="ἐγὼ" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" head="86"/>
       <word id="40" ref="Leuven|0014-047|201|40" form="φεύγειν" lemma="φεύγω" postag="v--pna---" relation="OBJ" head="86"/>
       <word id="41" ref="Leuven|0014-047|201|41" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="42"/>
       <word id="42" ref="Leuven|0014-047|201|42" form="ἔλεγχον" lemma="ἔλεγχος" postag="n-s---ma-" relation="OBJ" head="40"/>
@@ -6384,7 +6384,7 @@
       <word id="85" ref="Leuven|0014-047|201|85" form="[0]" lemma="[0]" postag="v_____---" relation="ATR" artificial="elliptic" insertion_id="0084e" head="24"/>
       <word id="86" insertion_id="0084g" artificial="elliptic" relation="ADV_CO" lemma="δοκέω" postag="v1saia---" form="ἔδοξα" head="38"/>
    </sentence>
-   <sentence id="201" document_id="0014-047" subdoc="80">
+   <sentence id="201" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="80">
       <word id="1" ref="Leuven|0014-047|202|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="11"/>
       <word id="2" ref="Leuven|0014-047|202|2" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="11"/>
       <word id="3" ref="Leuven|0014-047|202|3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="11"/>
@@ -6428,7 +6428,7 @@
       <word id="41" ref="Leuven|0014-047|202|38" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
       <word id="42" insertion_id="0041e" artificial="elliptic" relation="ATR_CO" lemma="εἰσέρχομαι" postag="v--ana---" form="εἰσελθεῖν" head="35"/>
    </sentence>
-   <sentence id="202" document_id="0014-047" subdoc="80">
+   <sentence id="202" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="80">
       <word id="1" ref="Leuven|0014-047|203|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="13"/>
       <word id="2" ref="Leuven|0014-047|203|2" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" relation="AuxC" head="10"/>
       <word id="3" ref="Leuven|0014-047|203|3" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"/>
@@ -6496,7 +6496,7 @@
       <word id="65" ref="Leuven|0014-047|203|65" form="συγχωρῆσαι" lemma="συγχωρέω" postag="v--ana---" relation="SBJ_CO" head="63"/>
       <word id="66" ref="Leuven|0014-047|203|66" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="203" document_id="0014-047" subdoc="81">
+   <sentence id="203" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="81">
       <word id="1" ref="Leuven|0014-047|204|1" form="ὥστε" lemma="ὥστε" postag="d--------" relation="AuxY" head="11"/>
       <word id="2" ref="Leuven|0014-047|204|2" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="8"/>
       <word id="3" ref="Leuven|0014-047|204|3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="11"/>
@@ -6596,7 +6596,7 @@
       <word id="97" insertion_id="0094f" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καὶ" head="83"/>
       <word id="98" insertion_id="0094h" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καὶ" head="96"/>
    </sentence>
-   <sentence id="204" document_id="0014-047" subdoc="82">
+   <sentence id="204" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="82">
       <word id="1" ref="Leuven|0014-047|205|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="13"/>
       <word id="2" ref="Leuven|0014-047|205|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-047|205|3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="8"/>
@@ -6662,7 +6662,7 @@
       <word id="63" ref="Leuven|0014-047|205|63" form="ψῆφον" lemma="ψῆφος" postag="n-s---fa-" relation="OBJ" head="61"/>
       <word id="64" ref="Leuven|0014-047|205|64" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="205" document_id="0014-047" subdoc="82">
+   <sentence id="205" document_id="urn:cts:greekLit:tlg0014.tlg047.perseus-grc1" subdoc="82">
       <word id="1" ref="Leuven|0014-047|206|1" form="λέγε" lemma="λέγω3" postag="v2spma---" relation="PRED" head="0"/>
       <word id="2" ref="Leuven|0014-047|206|2" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="3"/>
       <word id="3" ref="Leuven|0014-047|206|3" form="μαρτυρίας" lemma="μαρτυρία" postag="n-p---fa-" relation="OBJ" head="1"/>
