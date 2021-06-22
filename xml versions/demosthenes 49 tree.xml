@@ -2047,11 +2047,11 @@
       <word id="62" ref="Leuven|0014-049|48|62" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="63"/>
       <word id="63" ref="Leuven|0014-049|48|63" form="ξύλων" lemma="ξύλον" postag="n-p---ng-" relation="ATR" head="61"/>
       <word id="64" ref="Leuven|0014-049|48|64" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
-      <word id="65" ref="Leuven|0014-049|48|65" form="χιλίας" lemma="χίλιοι" postag="a-p---fa-" relation="OBJ_CO" head="69"/>
-      <word id="66" ref="Leuven|0014-049|48|66" form="ἑπτακοσίας" lemma="ἑπτακόσιοι" postag="a-p---fa-" relation="OBJ_CO" head="69"/>
-      <word id="67" ref="Leuven|0014-049|48|67" form="πεντήκοντα" lemma="πεντήκοντα" postag="a--------" relation="OBJ_CO" head="69"/>
+      <word id="65" ref="Leuven|0014-049|48|65" form="χιλίας" lemma="χίλιοι" postag="a-p---fa-" relation="ATR" head="69"/>
+      <word id="66" ref="Leuven|0014-049|48|66" form="ἑπτακοσίας" lemma="ἑπτακόσιοι" postag="a-p---fa-" relation="ATR" head="69"/>
+      <word id="67" ref="Leuven|0014-049|48|67" form="πεντήκοντα" lemma="πεντήκοντα" postag="a--------" relation="ATR" head="69"/>
       <word id="68" ref="Leuven|0014-049|48|68" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
-      <word id="69" insertion_id="0068e" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καί" head="58"/>
+      <word id="69" insertion_id="0068f" artificial="elliptic" relation="OBJ" lemma="δραχμή" postag="n-p---fa-" form="δραχμάς" head="58"/>
    </sentence>
    <sentence id="50" document_id="0014-049" subdoc="30">
       <word id="1" ref="Leuven|0014-049|49|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
@@ -2261,11 +2261,11 @@
       <word id="31" ref="Leuven|0014-049|55|31" form="αἱ" lemma="ὁ" postag="l-p---fn-" relation="ATR" head="32"/>
       <word id="32" ref="Leuven|0014-049|55|32" form="φιάλαι" lemma="φιάλη" postag="n-p---fn-" relation="SBJ" head="30"/>
       <word id="33" ref="Leuven|0014-049|55|33" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
-      <word id="34" ref="Leuven|0014-049|55|34" form="διακοσίας" lemma="διακόσιοι" postag="a-p---fa-" relation="OBJ_CO" head="38"/>
-      <word id="35" ref="Leuven|0014-049|55|35" form="τριάκοντα" lemma="τριάκοντα" postag="a--------" relation="OBJ_CO" head="38"/>
-      <word id="36" ref="Leuven|0014-049|55|36" form="ἑπτά" lemma="ἑπτά" postag="a--------" relation="OBJ_CO" head="38"/>
+      <word id="34" ref="Leuven|0014-049|55|34" form="διακοσίας" lemma="διακόσιοι" postag="a-p---fa-" relation="ATR" head="38"/>
+      <word id="35" ref="Leuven|0014-049|55|35" form="τριάκοντα" lemma="τριάκοντα" postag="a--------" relation="ATR" head="38"/>
+      <word id="36" ref="Leuven|0014-049|55|36" form="ἑπτά" lemma="ἑπτά" postag="a--------" relation="ATR" head="38"/>
       <word id="37" ref="Leuven|0014-049|55|37" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
-      <word id="38" insertion_id="0037e" artificial="elliptic" relation="COORD" lemma="καί" postag="c--------" form="καί" head="25"/>
+      <word id="38" insertion_id="0037f" artificial="elliptic" relation="OBJ" lemma="δραχμή" postag="n-p---fa-" form="δραχμάς" head="25"/>
    </sentence>
    <sentence id="57" document_id="0014-049" subdoc="32">
       <word id="1" ref="Leuven|0014-049|56|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="11"/>

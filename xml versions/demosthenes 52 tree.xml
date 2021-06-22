@@ -1192,8 +1192,8 @@
       <word id="51" ref="Leuven|0014-052|45|50" form="ἀναβαίνοντα" lemma="ἀναβαίνω" postag="v-sppama-" relation="OBJ_CO" head="52"/>
       <word id="52" ref="Leuven|0014-052|45|51" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="41"/>
       <word id="53" ref="Leuven|0014-052|45|52" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="54"/>
-      <word id="54" ref="Leuven|0014-052|45|53" form="ὀφθαλμὸν" lemma="ὀφθαλμός" postag="n-s---ma-" relation="OBJ" head="56"/>
-      <word id="55" ref="Leuven|0014-052|45|54" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" head="56"/>
+      <word id="54" ref="Leuven|0014-052|45|53" form="ὀφθαλμὸν" lemma="ὀφθαλμός" postag="n-s---ma-" relation="SBJ" head="56"/>
+      <word id="55" ref="Leuven|0014-052|45|54" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="56"/>
       <word id="56" ref="Leuven|0014-052|45|55" form="προδιδόντα" lemma="προδίδωμι" postag="v-sppama-" relation="OBJ_CO" head="52"/>
       <word id="57" ref="Leuven|0014-052|45|56" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="58" ref="Leuven|0014-052|45|57" form="λαγχάνει" lemma="λαγχάνω" postag="v3spia---" relation="PRED_CO" head="70"/>
