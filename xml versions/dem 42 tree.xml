@@ -1214,7 +1214,7 @@
       <word id="14" ref="Leuven|0014-042|43|14" form="ἂν" lemma="ἄν" postag="d--------" relation="AuxY" head="13"/>
       <word id="15" ref="Leuven|0014-042|43|15" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="13"/>
       <word id="16" ref="Leuven|0014-042|43|16" form="ὡς" lemma="ὡς" postag="d--------" relation="AuxZ" head="17"/>
-      <word id="17" ref="Leuven|0014-042|43|17" form="ὑπερβάλλοντα" lemma="ὑπερβάλλω" postag="v-sppamac" relation="ADV" head="13"/>
+      <word id="17" ref="Leuven|0014-042|43|17" form="ὑπερβάλλοντα" lemma="ὑπερβάλλω" postag="v-sppama-" relation="ADV" head="13"/>
       <word id="18" ref="Leuven|0014-042|43|18" form="συκοφαντίᾳ" lemma="συκοφαντία" postag="n-s---fd-" relation="OBJ" head="17"/>
       <word id="19" ref="Leuven|0014-042|43|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
@@ -1628,7 +1628,7 @@
       <word id="16" ref="Leuven|0014-042|57|16" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="15"/>
       <word id="17" ref="Leuven|0014-042|57|17" form="δωρεὰν" lemma="δωρεά" postag="n-s---fa-" relation="OBJ" head="15"/>
       <word id="18" ref="Leuven|0014-042|57|18" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
-      <word id="19" ref="Leuven|0014-042|57|19" form="ἀφίσταμαι" lemma="ἀφίστημι" postag="v1spie--c" relation="PRED_CO" head="18"/>
+      <word id="19" ref="Leuven|0014-042|57|19" form="ἀφίσταμαι" lemma="ἀφίστημι" postag="v1spie---" relation="PRED_CO" head="18"/>
       <word id="20" ref="Leuven|0014-042|57|20" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="19"/>
       <word id="21" ref="Leuven|0014-042|57|21" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="23"/>
       <word id="22" ref="Leuven|0014-042|57|22" form="ἄλλης" lemma="ἄλλος" postag="a-s---fg-" relation="ATR" head="23"/>
