@@ -4,7 +4,13 @@
           version="1.5"
           direction="ltr"
           format="aldt">
-   <date>2021-08-23 17:59:36 UTC</date>
+   <date>2022-03-03 16:37:50 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
    <annotator>
       <short/>
       <name/>
@@ -23,12 +29,7 @@
       <address/>
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
   </annotator>
-   <annotator>
-      <short>Vanessa Gorman</short>
-      <name>Vanessa Gorman</name>
-      <address>vbgorman@gmail.com</address>
-      <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
-  </annotator>
+  
    <annotator>
       <short>TravisKahl</short>
       <name>Travis Kahl</name>
