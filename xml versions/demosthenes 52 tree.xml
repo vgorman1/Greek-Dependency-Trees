@@ -675,7 +675,7 @@
    <sentence id="24" document_id="0014-052" subdoc="8">
       <word id="1" ref="Leuven|0014-052|26|1" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="15"/>
       <word id="2" ref="Leuven|0014-052|26|2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="15"/>
-      <word id="3" ref="Leuven|0014-052|26|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="4"/>
+      <word id="3" ref="Leuven|0014-052|26|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="4"/>
       <word id="4" ref="Leuven|0014-052|26|4" form="ἅπαντα" lemma="ἅπας" postag="a-p---na-" relation="OBJ" head="5"/>
       <word id="5" ref="Leuven|0014-052|26|5" form="εἶπον" lemma="εἶπον" postag="v3paia---" relation="OBJ" head="1"/>
       <word id="6" ref="Leuven|0014-052|26|6" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="5"/>
@@ -2677,7 +2677,7 @@
       <word id="29" insertion_id="0027h" artificial="elliptic" relation="PNOM_CO" lemma="ψηφίζω" postag="v-prpemn-" form="ἐψηφισμένοι" head="15"/>
    </sentence>
    <sentence id="85" document_id="0014-052" subdoc="33">
-      <word id="1" ref="Leuven|0014-052|87|1" form="ὡς" lemma="ὡς" postag="d--------" relation="AuxC" head="5"/>
+      <word id="1" ref="Leuven|0014-052|87|1" form="ὡς" lemma="ὡς" postag="d--------" relation="AuxY" head="5"/>
       <word id="2" ref="Leuven|0014-052|87|2" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="5"/>
       <word id="3" ref="Leuven|0014-052|87|3" form="ὑμᾶς" lemma="σύ" postag="p-p---ma-" relation="SBJ" head="9"/>
       <word id="4" ref="Leuven|0014-052|87|4" form="ἂν" lemma="ἄν" postag="d--------" relation="AuxY" head="5"/>

@@ -1203,7 +1203,7 @@
       <word id="1" ref="Leuven|0014-050|35|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="9"/>
       <word id="2" ref="Leuven|0014-050|35|2" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="9"/>
       <word id="3" ref="Leuven|0014-050|35|3" form="ταῦτ’" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
-      <word id="4" ref="Leuven|0014-050|35|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="3"/>
+      <word id="4" ref="Leuven|0014-050|35|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="3"/>
       <word id="5" ref="Leuven|0014-050|35|5" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="ADV" head="2"/>
       <word id="6" ref="Leuven|0014-050|35|6" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="7" ref="Leuven|0014-050|35|7" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="ATR" head="11"/>
@@ -2497,7 +2497,7 @@
       <word id="2" ref="Leuven|0014-050|65|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" ref="Leuven|0014-050|65|3" form="πάντα" lemma="πᾶς" postag="a-p---na-" relation="ATR" head="4"/>
       <word id="4" ref="Leuven|0014-050|65|4" form="ταῦτ’" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="6"/>
-      <word id="5" ref="Leuven|0014-050|65|5" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="4"/>
+      <word id="5" ref="Leuven|0014-050|65|5" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="4"/>
       <word id="6" ref="Leuven|0014-050|65|6" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="ADV" head="1"/>
       <word id="7" ref="Leuven|0014-050|65|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="8" ref="Leuven|0014-050|65|8" form="τούτων" lemma="οὗτος" postag="p-p---ng-" relation="ATR" head="12"/>
@@ -3210,7 +3210,7 @@
    <sentence id="91" document_id="0014-050" subdoc="37">
       <word id="1" ref="Leuven|0014-050|91|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="44"/>
       <word id="2" ref="Leuven|0014-050|91|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="44"/>
-      <word id="3" ref="Leuven|0014-050|91|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="4"/>
+      <word id="3" ref="Leuven|0014-050|91|3" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="4"/>
       <word id="4" ref="Leuven|0014-050|91|4" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
       <word id="5" ref="Leuven|0014-050|91|5" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="ADV_CO" head="9"/>
       <word id="6" ref="Leuven|0014-050|91|6" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="5"/>
@@ -4737,7 +4737,7 @@
       <word id="1" ref="Leuven|0014-050|144|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="13"/>
       <word id="2" ref="Leuven|0014-050|144|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="13"/>
       <word id="3" ref="Leuven|0014-050|144|3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="7"/>
-      <word id="4" ref="Leuven|0014-050|144|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="3"/>
+      <word id="4" ref="Leuven|0014-050|144|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="3"/>
       <word id="5" ref="Leuven|0014-050|144|5" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="7"/>
       <word id="6" ref="Leuven|0014-050|144|6" form="ὑμᾶς" lemma="σύ" postag="p-p----a-" relation="OBJ" head="5"/>
       <word id="7" ref="Leuven|0014-050|144|7" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="ADV" head="1"/>
