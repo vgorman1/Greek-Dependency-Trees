@@ -3275,7 +3275,7 @@
       <word id="1" ref="Leuven|0014-027|120|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="23"/>
       <word id="2" ref="Leuven|0014-027|120|2" form="ταῦθ’" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
       <word id="3" ref="Leuven|0014-027|120|3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="25"/>
-      <word id="4" ref="Leuven|0014-027|120|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATR" head="2"/>
+      <word id="4" ref="Leuven|0014-027|120|4" form="ἀληθῆ" lemma="ἀληθής" postag="a-p---na-" relation="ATV" head="2"/>
       <word id="5" ref="Leuven|0014-027|120|5" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="ATR_CO" head="7"/>
       <word id="6" ref="Leuven|0014-027|120|6" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
       <word id="7" ref="Leuven|0014-027|120|7" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="3"/>
