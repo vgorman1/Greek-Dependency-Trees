@@ -894,7 +894,7 @@
       <word id="14" ref="9002247" form="εἰδότες" lemma="οἶδα" postag="v-prpamn-" relation="ADV" head="11"/>
       <word id="15" ref="9002248" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="14"/>
       <word id="16" ref="9002249" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="18"/>
-      <word id="17" ref="9002250" form="θάνατον" lemma="θάνατος" postag="n-s---ma-" relation="ADV" head="16"/>
+      <word id="17" ref="9002250" form="θάνατον" lemma="θάνατος" postag="n-s---ma-" relation="OBJ" head="16"/>
       <word id="18" ref="9002251" form="ἄγοιτο" lemma="ἄγω" postag="v3spoe---" relation="OBJ" head="15"/>
       <word id="19" ref="9002252" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
    </sentence>
@@ -3624,7 +3624,7 @@
       <word id="10" ref="9004361" form="ὁρῶ" lemma="ὁράω" postag="v1spia---" relation="OBJ" head="7"/>
       <word id="11" ref="9004362" form="ἵετο" lemma="ἵημι" postag="v3siie---" relation="PRED_CO" head="19"/>
       <word id="12" ref="9004363" form="ἐπ’" lemma="ἐπί" postag="r--------" relation="AuxP" head="11"/>
-      <word id="13" ref="9004364" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="ADV" head="12"/>
+      <word id="13" ref="9004364" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="12"/>
       <word id="14" ref="9004365" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="19"/>
       <word id="15" ref="9004366" form="παίει" lemma="παίω" postag="v3spia---" relation="PRED_CO" head="19"/>
       <word id="16" ref="9004367" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="15"/>
